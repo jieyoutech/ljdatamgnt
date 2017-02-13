@@ -1,0 +1,1103 @@
+<!DOCTYPE html><html><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><meta http-equiv="X-UA-Compatible" content="IE=edge" /><meta http-equiv="Cache-Control" content="no-transform" /><meta http-equiv="Cache-Control" content="no-siteapp" /><meta http-equiv="Content-language" content="zh-CN" /><meta name="format-detection" content="telephone=no" /><meta name="applicable-device" content="pc"><link rel="alternate" media="only screen and (max-width: 640px)" href="https://m.lianjia.com/bj/ershoufang/dongcheng/pg1/" >
+<meta name="mobile-agent" content="format=html5;url=https://m.lianjia.com/bj/ershoufang/dongcheng/pg1/"><script>
+ljConf = {
+    city_id: '110000',
+    city_abbr: 'bj',
+    city_name: '北京',
+    channel: 'ershoufang',
+    page: 'ershoufang_search',
+    pageConfig: {"ajaxroot":"http:\/\/ajax.api.lianjia.com\/","imAppid":"LIANJIA_WEB_20160624","imAppkey":"6dfdcee27d78b1107fceeca55d80b7bd"}
+};
+</script>
+
+<title>东城第1页二手房网|个人房源房屋出售(北京链家网)</title>
+<meta name="description" content="链家东城二手房网,现有东城第1页二手房真实房源1190套.为准备买东城第1页二手房的用户提供北京地图找房、通勤找房等快捷找房工具,方便您更快捷的了解和购买东城二手房.买东城二手房就到北京链家网." />
+<meta name="keywords" content="东城二手房出售,东城二手房买卖,东城买二手房,东城二手房网,东城二手房" />
+<link href="/favicon.ico" type="image/x-icon" rel=icon><link href="/favicon.ico" type="image/x-icon" rel="shortcut icon"><link rel="stylesheet" href="http://s1.ljcdn.com/feroot/pc/asset/common.css?_v=20170209175958">
+<link rel="stylesheet" href="http://s1.ljcdn.com/feroot/pc/asset/ershoufang/sellList/index.css?_v=20170209175958">
+<!--[if lt IE 9]><script type="text/javascript" src="http://s1.ljcdn.com/feroot/dep/common-require/html5.js?_v=20170209175958"></script><![endif]-->
+<script>
+function RESIZEIMG(b,k,l,m){var c=b.parentNode;var d=parseInt(c.offsetWidth)||k;var e=parseInt(c.offsetHeight)||l;var f=d/e;var g=b.naturalWidth||b.width;var h=b.naturalHeight||b.height;var i=g/h;var j="width";if(f<i){j="height";try{b.style["left"]="-"+parseInt(Math.abs((d-(g*e/h))/2))+"px"}catch(e){}}else if(m){try{b.style["top"]="-"+parseInt(Math.abs((e-(h*d/g))/2))+"px"}catch(e){}};b.style[j]="100%";};
+</script>
+<script>
+var _czc = _czc || [];
+_czc.push(["_setAccount", "1254525948"]);
+</script>
+
+<script type="text/javascript">
+var _smq = _smq || [];
+_smq.push(['_setAccount', '41331c2', new Date()]);
+_smq.push(['_setDomainName', 'lianjia.com']);
+_smq.push(['pageview']);
+(function() {
+var sm = document.createElement('script'); sm.type = 'text/javascript'; sm.async = true;
+sm.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'cdnmaster.com/sitemaster/collect.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sm, s);
+})();
+</script>
+</head><body><script>
+__STAT_LJ_CONF = {
+    params: {
+        ljweb_group: ['SEARCH','BIGDATA_PC'],
+        ljweb_id: '',
+        ljweb_mod: '',
+        ljweb_bl: '',
+        ljweb_el: '',
+        ljweb_sl: '',
+        ljweb_index: '',
+        ljweb_value: '',
+        ljweb_url: '',
+        ljweb_ljref: (document.cookie.match(/(?:^| )ljref=([^;]*)(?:;|$)/) || ['',''])[1],
+        ljweb_sample: (document.cookie.match(/(?:^| )sample_traffic_test=([^;]*)(?:;|$)/) || ['',''])[1],
+        ljweb_ref: document.referrer,
+        ljweb_cid: '110000',
+        ljweb_channel: 'ershoufang',
+        ljweb_page: 'ershoufang_search'
+    }
+};
+
+
+
+var UT = {
+    send: function() {
+
+    }
+};
+var LjUserTrack = {
+    log: [],
+    initInterval: false,
+    intervalLog: function() {
+        setTimeout(function() {
+            if(window.$ULOG && $ULOG.send) {
+                for(var i = 0, l = LjUserTrack.log.length; i < l; i++) {
+                    LjUserTrack.__send(LjUserTrack.log[i]);
+                }
+
+                for(var m = 0, n = LjUserTrack.logIds.length; m < n; m++) {
+                    LjUserTrack.__sendId(LjUserTrack.logIds[m]);
+                }
+            } else {
+                LjUserTrack.intervalLog();
+            }
+        }, 16.7);
+    },
+    _start_time: +new Date,
+    __send: function(data) {
+        var evt_id = data.evt_id || '10043';
+        if('evt_id' in data) {
+            delete data.evt_id;
+        }
+
+        $ULOG.send(evt_id, {
+            "pid": (window.__UDL_CONFIG && window.__UDL_CONFIG.pid && window.__UDL_CONFIG.pid)||"lianjiaweb",
+            "key": window.location.href,
+            "action": data
+        });
+    },
+    logIds: [],
+    __sendId: function(id) {
+        id && $ULOG.send(id, {
+            "pid": (window.__UDL_CONFIG && window.__UDL_CONFIG.pid && window.__UDL_CONFIG.pid)||"lianjiaweb",
+            "key": window.location.href
+        });
+    },
+    sendId: function(id) {
+        if(window.$ULOG && $ULOG.send) {
+            LjUserTrack.__sendId(id);
+        } else {
+            LjUserTrack.logIds.push(id);
+
+            LjUserTrack.initInterval || (LjUserTrack.initInterval = true, LjUserTrack.intervalLog());
+
+        }
+    },
+    send: function(data, el, config) {
+
+        var utConf = __STAT_LJ_CONF;
+        var params = config || utConf.params,
+            win = window,
+            j;
+
+        data.groupIndex = data.ljweb_group || 0;
+
+        if (params) {
+            for (var d in params) {
+                if(params[d] !== j && data[d] === j) {
+                    data[d] = params[d];
+                }
+            }
+        }
+
+        if(el) {
+            this.checkClick(el, data);
+        }
+
+        data.ljweb_group = params['ljweb_group'][data.groupIndex || 0];
+
+        delete data.groupIndex;
+
+        if(data.typ) {
+            data.ljweb_bl = (data.ljweb_bl || '') + '_' + data.typ;
+            delete data.typ;
+        }
+
+        if(window.$ULOG && $ULOG.send) {
+            LjUserTrack.__send(data);
+        } else {
+            LjUserTrack.log.push(data);
+
+            LjUserTrack.initInterval || (LjUserTrack.initInterval = true, LjUserTrack.intervalLog());
+
+        }
+
+    },
+    checkClick: function(el, data) {
+
+        var TAG_LINK = 'A';
+        var href = '';
+        var elParent = null;
+
+        href = (el.tagName.toUpperCase() === TAG_LINK ? el.getAttribute("href", 2) : '');
+        if(!href && (elParent = el.parentNode) && elParent.nodeType === 1) {
+            href = (elParent.tagName.toUpperCase() === TAG_LINK ? elParent.getAttribute("href", 2) : '');
+        }
+
+        if(href) {
+            data.ljweb_url = href;
+        } else {
+            data.ljweb_url = data.ljweb_url
+                  || el.getAttribute("data-log_url")
+                  || (elParent=el.parentNode||el).getAttribute("data-log_url")
+                  || (
+                        (elParent=elParent.parentNode||elParent)
+                     && (elParent.nodeType === 1)
+                     && elParent.getAttribute("data-log_url")
+                     )
+                  || "";
+        }
+
+        this.attr(el, data);
+
+    },
+    path: function() {
+
+    },
+    attr: function(el, data) {
+        var modId     = el.getAttribute("log-mod");
+        var blAttr    = el.getAttribute("data-bl");
+        var elAttr    = el.getAttribute("data-el");
+        var slAttr    = el.getAttribute("data-sl");
+        var InAttr    = el.getAttribute("data-log_index");
+        var valAttr   = el.getAttribute("data-log_value");
+        var idAttr    = el.getAttribute("data-log_id");
+        var groupAttr = el.getAttribute("data-log_group");
+        var evtId     = el.getAttribute("data-log_evtid");
+
+        data.ljweb_bl    = data.ljweb_bl || blAttr || '';
+        data.ljweb_el    = data.ljweb_el || elAttr || '';
+        data.ljweb_sl    = data.ljweb_sl || slAttr || '';
+        data.ljweb_index = data.ljweb_index || InAttr || '';
+        data.ljweb_value = data.ljweb_value || valAttr || '';
+        data.ljweb_id    = data.ljweb_id || idAttr || '';
+        data.groupIndex  = data.groupIndex || groupAttr || 0;
+        data.evt_id      = data.evt_id || evtId || '';
+
+        if (!modId) {
+            if (el.parentNode && el.parentNode.nodeType === 1 && el.parentNode.tagName.toUpperCase() !== 'BODY') {
+                this.attr(el.parentNode, data);
+            }
+        } else {
+            data.ljweb_mod = modId;
+        }
+    }
+};
+
+;;(function() {
+    var isW3c = !!document.addEventListener;
+
+    LjUserTrack.send({
+        ljweb_mod: 'pv',
+        ljweb_group: 1
+    });
+
+    /*window[isW3c ? 'addEventListener' : 'attachEvent'](
+        (isW3c ? '': 'on') + 'beforeunload',
+        function(e) {
+            var _end_time = +new Date;
+            UT.send({type: 'show', subtype: 'stay', time: (_end_time-UT._start_time)/1000});
+        },
+        false);*/
+})();
+
+
+
+
+
+</script>
+<div class="banner"><div class="container"><ul class="channelList"><li><a href="http://www.lianjia.com/">首页</a></li><li  class="selected"><a href="http://bj.lianjia.com/ershoufang/" >二手房</a></li><li  class=""><a href="http://bj.fang.lianjia.com/" >新房</a></li><li  class=""><a href="http://bj.lianjia.com/zufang/" >租房</a></li><li  rel="nofollow"  class=""><a href="http://you.lianjia.com/" >旅居地产</a></li><li  class=""><a href="http://us.lianjia.com/" >海外</a></li><li  class=""><a href="http://bj.lianjia.com/xiaoqu/" >小区</a></li><li  class=""><a href="http://bj.lianjia.com/jingjiren/" >经纪人</a></li><li  class=""><a href="http://news.bj.lianjia.com/baike/" >百科</a></li><li  class=""><a href="http://bj.lianjia.com/fangjia/" >房价</a></li><li  class=""><a href="http://bj.lianjia.com/tool.html" target="_blank">工具</a></li><li  class=""><a href="http://bj.lianjia.com/yezhu/" target="_blank">卖房</a></li></ul><div class="banner-right"><div class="login" id="userInfoContainer"><i></i><a href="https://passport.lianjia.com/cas/login?service=http%3A%2F%2Fbj.lianjia.com%2Fershoufang%2Fdongcheng%2Fpg1%2F" id="loginBtn">登录</a>/<a href="http://passport.lianjia.com/register/resources/lianjia/register.html?service=http%3A%2F%2Fbj.lianjia.com%2Fershoufang%2Fdongcheng%2Fpg1%2F" rel="nofollow">注册</a></div><div class="phone"><i></i><span>热线电话1010-9666</span></div></div></div></div>
+
+
+<script type="text/template" id="userInfoTpl">
+  <i></i>
+  <%if(isAgent){%>
+    <a id="userNameContainer" href="<%=$.env.fixedUrl('http://agent.lianjia.com/')%>"><%=username%></a>
+  <%}else{%>
+    <a id="userNameContainer" href="<%=$.env.fixedUrl('http://user.lianjia.com/')%>" rel="nofollow"><%=username%></a>
+  <%}%>
+  <span id="tipContainer"></span>
+  &nbsp;&nbsp;<a href="<%=logoutUrl%>">退出</a>
+  <span id="pushNewsListContainer"></span>
+</script>
+<script type="text/template" id="pushNewsListTpl">
+  <div class="pushNewsList">
+    <%for(var i in group_by_type){%>
+      <%if(group_by_type[i].unread !== 0 && pushMsgMap.hasOwnProperty(i)){%>
+        <a href="<%=pushMsgMap[i].url%>"><%=$.replaceTpl(pushMsgMap[i].text, {unread:group_by_type[i].unread})%></a>
+      <%}%>
+    <%}%>
+  </div>
+</script>
+<div class="header"><div class="menu"><div class="menuLeft"><a href="/ershoufang" class="logo"></a><ul class="typeList"><li class="selected"><a href="/ershoufang/"  title="北京在售二手房" >在售</a></li><li ><a href="/chengjiao/"  title="北京成交二手房" >成交</a></li><li ><a href="/xiaoqu/"  title="北京小区二手房" >小区</a></li><li ><a href="/fangjia/"  title="北京房价二手房" >房价</a></li><li ><a href="/ditu/"  title="北京地图找房二手房" target="_blank">地图找房</a></li><li ><a href="/tool.html"  title="北京计算器二手房" >计算器</a></li></ul></div><div class="app"><a href="http://www.lianjia.com/client/" target="_blank"><i></i>下载链家APP</a></div></div><div class="search"><div class="input" log-mod="search"><form id="searchForm" action='/ershoufang/rs'><input type="text" id="searchInput" value="" autocomplete="off"><div class="inputRightPart"><div class="save" id="savedSearchMsg"><span id="savedSearchCount">0</span>条已保存搜索<span id="savedSearchArrow" class="downArrow"></span></div><button type='submit' class="searchButton" data-bl="search" data-el="search">&nbsp;<i></i>&nbsp;</button></div></form><div class="searchMsg" id="searchMsgContainer"></div></div></div></div>
+
+
+<script type="text/template" id="hotSearchTpl">
+  <div class="searchMsgTitle">
+    <span class="searchMsgName">热门搜索</span>
+  </div>
+  <ul data-bl="sug" data-el="history">
+    <%for(var i =0; i < list.length; i++){%>
+    <li>
+      <a role="addHistory" href="<%=list[i].url%>" data-log_index="<%=i+1%>" data-log_value="<%=list[i].string%>" class="sug--search_item">
+        <span class="msgListTitle" role="historyKey"><%=list[i].string%></span>
+      </a>
+    </li>
+    <%}%>
+  </ul>
+</script>
+<script type="text/template" id="searchHistoryTpl">
+  <div class="searchMsgTitle">
+    <span class="searchMsgName">搜索历史</span>
+    <div class="searchMsgTitleRightPart">
+      <a href="#" id="clearSearchHistory" class="manage">清除历史记录</a>
+    </div>
+  </div>
+  <ul data-bl="sug" data-el="history">
+  <%for(var i = 0; i < list.length; i++){%>
+    <li>
+      <a href="<%=list[i].url%>" role="addHistory" data-log_index="<%=i+1%>" data-log_value="<%=$.encodeHTML(list[i].name)%>" class="sug--search_item">
+        <span class="msgListTitle" role="historyKey"><%=$.encodeHTML(list[i].name)%></span>
+        <%if(list[i].newCount) {%>
+          <span class="msgListAdd"><%=list[i].newCount%>套新增房源</span>
+        <%}%>
+      </a>
+    </li>
+  <%}%>
+  </ul>
+</script>
+<script type="text/template" id="searchSuggestionTpl">
+  <div class="searchMsgTitle">
+    <span class="searchMsgName">你可能在找</span>
+  </div>
+  <ul data-bl="sug" data-el="sug">
+  <%for(var i = 0;i < list.length;i++){%>
+    <li>
+      <a href="<%=list[i].url%>" role="addHistory" data-log_index="<%=i+1%>" data-log_value="<%=list[i].title%>">
+        <span class="msgListTitle">
+          <span role="historyKey"><%=list[i].title%></span>
+          <%if(list[i].region){%>
+            <span class="msgListArea"><%=list[i].region%></span>
+          <%}%>
+        </span>
+        <%if(type === 'sell'){%>
+          <span class="msgListAdd">约<%=list[i].count%>套在售</span>
+        <%}else if(type === 'deal'){%>
+          <span class="msgListAdd">约<%=list[i].count%>套成交</span>
+        <%}%>
+      </a>
+    </li>
+  <%}%>
+  </ul>
+</script>
+<script type="text/template" id="savedSearchTpl">
+  <div class="searchMsgTitle">
+    <span class="searchMsgName">已保存搜索</span>
+    <div class="searchMsgTitleRightPart">
+    <%if(totalCount){%>
+      <a class="totalNew">查看<%=totalCount%>套新增房源</a>
+    <%}%>
+      <a href="<%=userCenterUrl%>" class="manage">管理</a>
+    </div>
+  </div>
+  <ul data-bl="sug" data-el="history">
+    <%for(var i = 0; i < savedData.length; i++){
+      var title = savedData[i].query ? savedData[i].query + '&nbsp;' : '';
+      title = title + savedData[i].title.join('&nbsp;');
+    %>
+      <li>
+        <a href="<%=savedData[i].url%>" role="savedSearch" data-log_index="<%=i+1%>" data-log_value="<%=title%>" class="sug--search_item">
+          <span class="msgListTitle"><%=title%></span>
+          <%if(savedData[i].unread && savedData[i].unread !== 0){%>
+          <span class="msgListAdd">新增<%=savedData[i].unread%>套</span>
+          <%}%>
+        </a>
+      </li>
+    <%}%>
+  </ul>
+</script>
+
+<script>
+  var hotSearchData = {
+    channel:[{"name":"\u4e8c\u624b\u623f","action":"ershoufang","channel":"ershoufang","checked":1,"tipsHot":{"query":[{"string":"\u65b0\u9f99\u57ce","url":"http:\/\/bj.lianjia.com\/ershoufang\/c1111027381003\/"},{"string":"\u5929\u901a\u82d1","url":"http:\/\/bj.lianjia.com\/ershoufang\/tiantongyuan\/"},{"string":"\u5317\u4eac\u65b0\u5929\u5730","url":"http:\/\/bj.lianjia.com\/ershoufang\/c1111027375945\/"},{"string":"\u8fdc\u6d0b\u5c71\u6c34","url":"http:\/\/bj.lianjia.com\/ershoufang\/c1111027382209\/"},{"string":"\u671b\u4eac","url":"http:\/\/bj.lianjia.com\/ershoufang\/wangjing\/"},{"string":"\u5317\u4eac\u50cf\u7d20","url":"http:\/\/bj.lianjia.com\/ershoufang\/sq45\/"},{"string":"\u8349\u623f\u7ad9\u9644\u8fd1\u623f\u6e90","url":"http:\/\/bj.lianjia.com\/ditiefang\/li46107350s46107204\/"},{"string":"13\u53f7\u7ebf\u5730\u94c1\u623f","url":"http:\/\/bj.lianjia.com\/ditiefang\/li652\/"}],"tips":"\u8bd5\u8bd5\u8f93\u5165\u5730\u94c1\u7ebf\/\u7ad9\u627e\u5730\u94c1\u623f\uff0c\u5982 13\u53f7\u7ebf"}},{"name":"\u5c0f\u533a","action":"xiaoqu","channel":"xiaoqu","checked":0,"tipsHot":{"query":[{"string":"\u8fdc\u6d0b\u5c71\u6c34","url":"http:\/\/bj.lianjia.com\/xiaoqu\/1111027382209\/"},{"string":"\u540e\u73b0\u4ee3\u57ce","url":"http:\/\/bj.lianjia.com\/xiaoqu\/1111027375357\/"},{"string":"\u8363\u4e302008","url":"http:\/\/bj.lianjia.com\/xiaoqu\/1111027378998\/"},{"string":"\u5929\u901a\u897f\u82d1\u4e09\u533a ","url":"http:\/\/bj.lianjia.com\/xiaoqu\/1111027380054\/"},{"string":"\u82f9\u679c\u793e\u533a","url":"http:\/\/bj.lianjia.com\/xiaoqu\/1111027378713\/"},{"string":"\u534e\u8d38\u57ce","url":"http:\/\/bj.lianjia.com\/xiaoqu\/1111027375158\/"},{"string":"\u5929\u901a\u82d1\u4e2d\u82d1","url":"http:\/\/bj.lianjia.com\/xiaoqu\/1111027380057\/"},{"string":"\u5317\u4eac\u65b0\u5929\u5730","url":"http:\/\/bj.lianjia.com\/xiaoqu\/1111027375945\/"}],"tips":"\u8bf7\u8f93\u5165\u5c0f\u533a\u540d\u5f00\u59cb\u67e5\u627e\u5c0f\u533a"}},{"name":"\u65b0\u623f","action":"loupan","channel":"xinfang","checked":0,"tipsHot":{"query":[{"string":"\u91d1\u6cf0\u4e3d\u6e7e","url":"http:\/\/bj.fang.lianjia.com\/loupan\/p_aaaog"},{"string":"\u516c\u56ed6\u53f7","url":"http:\/\/bj.fang.lianjia.com\/loupan\/p_gyaapsx\/"},{"string":"\u4eac\u6d32\u4e16\u5bb6","url":"http:\/\/bj.fang.lianjia.com\/loupan\/p_jzsjaaadk\/"},{"string":"\u9996\u521b\u6d3e\u5c1a\u56fd\u9645","url":"http:\/\/bj.fang.lianjia.com\/loupan\/p_scpsgjaaahy\/"},{"string":"\u5317\u4eac\u57ce\u5efa\u80dc\u8302\u50b2\u5c71","url":"http:\/\/bj.fang.lianjia.com\/loupan\/p_bjcjsmasaaajm\/"},{"string":"\u9996\u5f00\u7199\u60a6\u5c1a\u90e1","url":"http:\/\/bj.fang.lianjia.com\/loupan\/p_skxysjaaajp\/"},{"string":"\u5929\u6da6\u798f\u7199\u5927\u9053","url":"http:\/\/bj.fang.lianjia.com\/loupan\/p_trfxddaaaly\/"},{"string":"\u7ea2\u73ba\u53f0","url":"http:\/\/bj.fang.lianjia.com\/loupan\/p_hxtaaamn\/"}],"tips":"\u8bf7\u8f93\u5165\u697c\u76d8\u540d\u79f0\u5f00\u59cb\u627e\u623f"}},{"name":"\u67e5\u623f\u4ef7","action":"fangjia","channel":"fangjia","checked":0,"tipsHot":{"query":[{"string":"\u5927\u5174","url":"http:\/\/bj.lianjia.com\/fangjia\/daxing\/"},{"string":"\u660c\u5e73","url":"http:\/\/bj.lianjia.com\/fangjia\/changping\/"},{"string":"\u671b\u4eac","url":"http:\/\/bj.lianjia.com\/fangjia\/wangjing\/"},{"string":"\u6e05\u6cb3","url":"http:\/\/bj.lianjia.com\/fangjia\/qinghe\/"},{"string":"\u8fdc\u89c1\u540d\u82d1","url":"http:\/\/bj.lianjia.com\/fangjia\/c1111027381801\/"},{"string":"\u828d\u836f\u5c45\u5317\u91cc","url":"http:\/\/bj.lianjia.com\/fangjia\/c1111027379657\/"},{"string":"\u540e\u73b0\u4ee3\u57ce","url":"http:\/\/bj.lianjia.com\/fangjia\/c1111027375357\/"},{"string":"\u534e\u4e25\u5317\u91cc\u5c0f\u533a","url":"http:\/\/bj.lianjia.com\/fangjia\/c1111027375413\/"}],"tips":"\u8bf7\u8f93\u5165\u533a\u57df\u3001\u5546\u5708\u6216\u5c0f\u533a\u540d\u67e5\u8be2\u623f\u4ef7"}},{"name":"\u79df\u623f","action":"zufang","channel":"zufang","checked":0,"tipsHot":{"query":[{"string":"\u5317\u4eac\u50cf\u7d20","url":"http:\/\/bj.lianjia.com\/zufang\/rs%E5%8C%97%E4%BA%AC%E5%83%8F%E7%B4%A0"},{"string":"\u56de\u9f99\u89c2","url":"http:\/\/bj.lianjia.com\/zufang\/huilongguan2"},{"string":"\u7261\u4e39\u56ed","url":"http:\/\/bj.lianjia.com\/zufang\/mudanyuan"},{"string":"\u6e05\u6cb3","url":"http:\/\/bj.lianjia.com\/zufang\/qinghe11\/"},{"string":"\u5929\u901a\u82d1","url":"http:\/\/bj.lianjia.com\/ditiezufang\/li649s20598\/"},{"string":"\u9752\u5e74\u8def","url":"http:\/\/bj.lianjia.com\/ditiezufang\/li46107350s46107139\/"}],"tips":"\u8bf7\u8f93\u5165\u533a\u57df\u3001\u5546\u5708\u6216\u5c0f\u533a\u540d\u5f00\u59cb\u627e\u623f"}},{"name":"\u7ecf\u7eaa\u4eba","action":"jingjiren","channel":"jingjiren","checked":0,"tipsHot":{"query":[],"tips":"\u8bf7\u8f93\u5165\u5546\u5708\u3001\u5c0f\u533a\u6216\u7ecf\u7eaa\u4eba\u7684\u59d3\u540d\u3001\u7535\u8bdd..."}}],
+    curChannel:'ershoufang'
+  };
+</script>
+<div class="m-filter">
+          <div class="lanren">想要根据工作地来选房子，快试试<a href="/ditu?bar=steam" target="_blank">通勤找房</a></div>
+        <div class="position">
+      <dl>
+        <h2><dt title="北京在售位置">位置</dt></h2>
+        <dd>
+                  <a href="/ershoufang/" id="areaTab" class="selected" title="北京二手房">
+            区域<span class="arrow"></span>
+          </a>
+                    <a href="/ditiefang/" id="subwayTab"  title="北京地铁找房">
+            地铁线<span class="arrow"></span>
+          </a>
+                                    </dd>
+      </dl>
+      <dl>
+        <dt></dt>
+        <dd>
+          <!-- 区域 -->
+                    <div data-role="ershoufang" >
+            <div>
+                              <a href="/ershoufang/dongcheng/" class="selected" title="北京东城在售二手房 ">东城</a>
+                              <a href="/ershoufang/xicheng/"  title="北京西城在售二手房 ">西城</a>
+                              <a href="/ershoufang/chaoyang/"  title="北京朝阳在售二手房 ">朝阳</a>
+                              <a href="/ershoufang/haidian/"  title="北京海淀在售二手房 ">海淀</a>
+                              <a href="/ershoufang/fengtai/"  title="北京丰台在售二手房 ">丰台</a>
+                              <a href="/ershoufang/shijingshan/"  title="北京石景山在售二手房 ">石景山</a>
+                              <a href="/ershoufang/tongzhou/"  title="北京通州在售二手房 ">通州</a>
+                              <a href="/ershoufang/changping/"  title="北京昌平在售二手房 ">昌平</a>
+                              <a href="/ershoufang/daxing/"  title="北京大兴在售二手房 ">大兴</a>
+                              <a href="/ershoufang/yizhuangkaifaqu/"  title="北京亦庄开发区在售二手房 ">亦庄开发区</a>
+                              <a href="/ershoufang/shunyi/"  title="北京顺义在售二手房 ">顺义</a>
+                              <a href="/ershoufang/fangshan/"  title="北京房山在售二手房 ">房山</a>
+                              <a href="/ershoufang/mentougou/"  title="北京门头沟在售二手房 ">门头沟</a>
+                              <a href="/ershoufang/pinggu/"  title="北京平谷在售二手房 ">平谷</a>
+                              <a href="/ershoufang/huairou/"  title="北京怀柔在售二手房 ">怀柔</a>
+                              <a href="/ershoufang/miyun/"  title="北京密云在售二手房 ">密云</a>
+                              <a href="/ershoufang/yanqing/"  title="北京延庆在售二手房 ">延庆</a>
+                              <a href="/ershoufang/yanjiao/"  title="北京燕郊在售二手房 ">燕郊</a>
+                          </div>
+                          <div>
+                                  <b>A</b>
+                                      <a href="/ershoufang/andingmen/" >安定门</a>
+                                      <a href="/ershoufang/anzhen1/" >安贞</a>
+                                                    <b>B</b>
+                                      <a href="/ershoufang/beijingnanzhan1/" >北京南站</a>
+                                                    <b>C</b>
+                                      <a href="/ershoufang/chaoyangmenwai1/" >朝阳门外</a>
+                                      <a href="/ershoufang/chaoyangmennei1/" >朝阳门内</a>
+                                      <a href="/ershoufang/chongwenmen/" >崇文门</a>
+                                                    <b>D</b>
+                                      <a href="/ershoufang/dongdan/" >东单</a>
+                                      <a href="/ershoufang/dongzhimen/" >东直门</a>
+                                      <a href="/ershoufang/dianmen/" >地安门</a>
+                                      <a href="/ershoufang/donghuashi/" >东花市</a>
+                                      <a href="/ershoufang/dongsi1/" >东四</a>
+                                      <a href="/ershoufang/dengshikou/" >灯市口</a>
+                                                    <b>G</b>
+                                      <a href="/ershoufang/guozhan1/" >国展</a>
+                                      <a href="/ershoufang/guangqumen/" >广渠门</a>
+                                      <a href="/ershoufang/gongti/" >工体</a>
+                                                    <b>H</b>
+                                      <a href="/ershoufang/huixinxijie/" >惠新西街</a>
+                                      <a href="/ershoufang/hepingli/" >和平里</a>
+                                                    <b>J</b>
+                                      <a href="/ershoufang/jiaodaokou/" >交道口</a>
+                                      <a href="/ershoufang/jinsong/" >劲松</a>
+                                      <a href="/ershoufang/jianguomenwai/" >建国门外</a>
+                                      <a href="/ershoufang/jianguomennei/" >建国门内</a>
+                                      <a href="/ershoufang/jinbaojie/" >金宝街</a>
+                                                    <b>L</b>
+                                      <a href="/ershoufang/liupukang/" >六铺炕</a>
+                                                    <b>M</b>
+                                      <a href="/ershoufang/muxiyuan1/" >木樨园</a>
+                                                    <b>P</b>
+                                      <a href="/ershoufang/puhuangyu/" >蒲黄榆</a>
+                                                    <b>Q</b>
+                                      <a href="/ershoufang/qianmen/" >前门</a>
+                                                    <b>S</b>
+                                      <a href="/ershoufang/shuangjing/" >双井</a>
+                                                    <b>T</b>
+                                      <a href="/ershoufang/taoranting1/" >陶然亭</a>
+                                      <a href="/ershoufang/tiantan/" >天坛</a>
+                                                    <b>X</b>
+                                      <a href="/ershoufang/xisi1/" >西四</a>
+                                      <a href="/ershoufang/xiluoyuan/" >西罗园</a>
+                                      <a href="/ershoufang/xidan/" >西单</a>
+                                                    <b>Y</b>
+                                      <a href="/ershoufang/yongdingmen/" >永定门</a>
+                                      <a href="/ershoufang/yangqiao1/" >洋桥</a>
+                                                    <b>Z</b>
+                                      <a href="/ershoufang/zuoanmen1/" >左安门</a>
+                                                </div>
+                      </div>
+                    <!-- 地铁 -->
+                    <div data-role="ditiefang" style="display:none;">
+            <div>
+                          <a href="/ditiefang/li647/"   title="北京1号线在售二手房 ">1号线</a>
+                          <a href="/ditiefang/li648/"   title="北京2号线在售二手房 ">2号线</a>
+                          <a href="/ditiefang/li656/"   title="北京4号线在售二手房 ">4号线</a>
+                          <a href="/ditiefang/li649/"   title="北京5号线在售二手房 ">5号线</a>
+                          <a href="/ditiefang/li46107350/"   title="北京6号线在售二手房 ">6号线</a>
+                          <a href="/ditiefang/li46537785/"   title="北京7号线在售二手房 ">7号线</a>
+                          <a href="/ditiefang/li659/"   title="北京8号线在售二手房 ">8号线</a>
+                          <a href="/ditiefang/li43145267/"   title="北京9号线在售二手房 ">9号线</a>
+                          <a href="/ditiefang/li651/"   title="北京10号线在售二手房 ">10号线</a>
+                          <a href="/ditiefang/li652/"   title="北京13号线在售二手房 ">13号线</a>
+                          <a href="/ditiefang/li46461179/"   title="北京14号线(东段)在售二手房 ">14号线(东段)</a>
+                          <a href="/ditiefang/li1110790465974155/"   title="北京14号线(西段)在售二手房 ">14号线(西段)</a>
+                          <a href="/ditiefang/li43143633/"   title="北京15号线在售二手房 ">15号线</a>
+                          <a href="/ditiefang/li1116796246117001/"   title="北京16号线在售二手房 ">16号线</a>
+                          <a href="/ditiefang/li653/"   title="北京八通线在售二手房 ">八通线</a>
+                          <a href="/ditiefang/li43144847/"   title="北京亦庄线在售二手房 ">亦庄线</a>
+                          <a href="/ditiefang/li43144993/"   title="北京昌平线在售二手房 ">昌平线</a>
+                          <a href="/ditiefang/li43145111/"   title="北京房山线在售二手房 ">房山线</a>
+                          <a href="/ditiefang/li654/"   title="北京机场线在售二手房 ">机场线</a>
+                        </div>
+                      </div>
+                    <!-- 学区 -->
+                  </dd>
+      </dl>
+    </div>
+  
+  <div class="list-more">
+                                                                                                                                                                                                                                                                      <dl class=" hasmore" >
+          <h2><dt title="北京售价在售二手房">售价</dt></h2>
+          <dd>
+                                                                    <a href="/ershoufang/dongcheng/p1/" class="">
+                <span class="checkbox "></span>
+                <span class="name">200万以下</span>
+                                  <span class="cnt">(2)</span>
+                              </a>
+                                                                    <a href="/ershoufang/dongcheng/p2/" class="">
+                <span class="checkbox "></span>
+                <span class="name">200-250万</span>
+                                  <span class="cnt">(5)</span>
+                              </a>
+                                                                    <a href="/ershoufang/dongcheng/p3/" class="">
+                <span class="checkbox "></span>
+                <span class="name">250-300万</span>
+                                  <span class="cnt">(6)</span>
+                              </a>
+                                                                    <a href="/ershoufang/dongcheng/p4/" class="">
+                <span class="checkbox "></span>
+                <span class="name">300-400万</span>
+                                  <span class="cnt">(38)</span>
+                              </a>
+                                                                    <a href="/ershoufang/dongcheng/p5/" class="">
+                <span class="checkbox "></span>
+                <span class="name">400-500万</span>
+                                  <span class="cnt">(145)</span>
+                              </a>
+                                                                    <a href="/ershoufang/dongcheng/p6/" class="">
+                <span class="checkbox "></span>
+                <span class="name">500-800万</span>
+                                  <span class="cnt">(492)</span>
+                              </a>
+                                                                    <a href="/ershoufang/dongcheng/p7/" class="">
+                <span class="checkbox "></span>
+                <span class="name">800-1000万</span>
+                                  <span class="cnt">(208)</span>
+                              </a>
+                                                                    <a href="/ershoufang/dongcheng/p8/" class="">
+                <span class="checkbox "></span>
+                <span class="name">1000万以上</span>
+                                  <span class="cnt">(294)</span>
+                              </a>
+                                                              <span class="customFilter mt" data-role="price">
+                <input type="text" role="minValue" value="">
+                <span>-</span>
+                <input type="text" role="maxValue" value="">&nbsp;
+                                  <span>万</span>
+                                <button class="btn-range hide" data-url="/ershoufang/dongcheng/bp{min}ep{max}/">确定</button>
+              </span>
+                                                  <span class="btn-showmore">+ 更多及自定义</span>
+                      </dd>
+        </dl>
+                                                                                                                                                                                                                                  <dl class=" hasmore" >
+          <h2><dt title="北京面积在售二手房">面积</dt></h2>
+          <dd>
+                                                                    <a href="/ershoufang/dongcheng/a1/" class="">
+                <span class="checkbox "></span>
+                <span class="name">50平以下</span>
+                                  <span class="cnt">(127)</span>
+                              </a>
+                                                                    <a href="/ershoufang/dongcheng/a2/" class="">
+                <span class="checkbox "></span>
+                <span class="name">50-70平</span>
+                                  <span class="cnt">(397)</span>
+                              </a>
+                                                                    <a href="/ershoufang/dongcheng/a3/" class="">
+                <span class="checkbox "></span>
+                <span class="name">70-90平</span>
+                                  <span class="cnt">(245)</span>
+                              </a>
+                                                                    <a href="/ershoufang/dongcheng/a4/" class="">
+                <span class="checkbox "></span>
+                <span class="name">90-110平</span>
+                                  <span class="cnt">(139)</span>
+                              </a>
+                                                                    <a href="/ershoufang/dongcheng/a5/" class="">
+                <span class="checkbox "></span>
+                <span class="name">110-130平</span>
+                                  <span class="cnt">(87)</span>
+                              </a>
+                                                                    <a href="/ershoufang/dongcheng/a6/" class="">
+                <span class="checkbox "></span>
+                <span class="name">130-150平</span>
+                                  <span class="cnt">(52)</span>
+                              </a>
+                                                                    <a href="/ershoufang/dongcheng/a7/" class="">
+                <span class="checkbox "></span>
+                <span class="name">150-200平</span>
+                                  <span class="cnt">(79)</span>
+                              </a>
+                                                                    <a href="/ershoufang/dongcheng/a8/" class="">
+                <span class="checkbox "></span>
+                <span class="name">200平以上</span>
+                                  <span class="cnt">(64)</span>
+                              </a>
+                                                              <span class="customFilter mt" data-role="area">
+                <input type="text" role="minValue" value="">
+                <span>-</span>
+                <input type="text" role="maxValue" value="">&nbsp;
+                                  <span>平</span>
+                                <button class="btn-range hide" data-url="/ershoufang/dongcheng/ba{min}ea{max}/">确定</button>
+              </span>
+                                                  <span class="btn-showmore">+ 更多及自定义</span>
+                      </dd>
+        </dl>
+                                                                                                                                                                            <dl class=" " >
+          <h2><dt title="北京房型在售二手房">房型</dt></h2>
+          <dd>
+                                                                    <a href="/ershoufang/dongcheng/l1/" class="">
+                <span class="checkbox "></span>
+                <span class="name">一室</span>
+                                  <span class="cnt">(316)</span>
+                              </a>
+                                                                    <a href="/ershoufang/dongcheng/l2/" class="">
+                <span class="checkbox "></span>
+                <span class="name">二室</span>
+                                  <span class="cnt">(546)</span>
+                              </a>
+                                                                    <a href="/ershoufang/dongcheng/l3/" class="">
+                <span class="checkbox "></span>
+                <span class="name">三室</span>
+                                  <span class="cnt">(253)</span>
+                              </a>
+                                                                    <a href="/ershoufang/dongcheng/l4/" class="">
+                <span class="checkbox "></span>
+                <span class="name">四室</span>
+                                  <span class="cnt">(61)</span>
+                              </a>
+                                                                    <a href="/ershoufang/dongcheng/l5/" class="">
+                <span class="checkbox "></span>
+                <span class="name">五室</span>
+                                  <span class="cnt">(5)</span>
+                              </a>
+                                                                    <a href="/ershoufang/dongcheng/l6/" class="">
+                <span class="checkbox "></span>
+                <span class="name">五室以上</span>
+                                  <span class="cnt">(9)</span>
+                              </a>
+                                                          </dd>
+        </dl>
+                                                                                                                                                          <dl class="hide " data-role="hide-row">
+          <h2><dt title="北京用途在售二手房">用途</dt></h2>
+          <dd>
+                                                                    <a href="/ershoufang/dongcheng/sf1/" class="">
+                <span class="checkbox "></span>
+                <span class="name">普通住宅</span>
+                                  <span class="cnt">(1131)</span>
+                              </a>
+                                                                    <a href="/ershoufang/dongcheng/sf2/" class="">
+                <span class="checkbox "></span>
+                <span class="name">商住两用</span>
+                                  <span class="cnt">(54)</span>
+                              </a>
+                                                                    <a href="/ershoufang/dongcheng/sf3/" class="">
+                <span class="checkbox "></span>
+                <span class="name">别墅</span>
+                                  <span class="cnt">(2)</span>
+                              </a>
+                                                                    <a href="/ershoufang/dongcheng/sf4/" class="">
+                <span class="checkbox "></span>
+                <span class="name">四合院</span>
+                                  <span class="cnt">(3)</span>
+                              </a>
+                                                                                                                  <a href="javascript:;" class="nolink">
+                <span class="checkbox "></span>
+                <span class="name">其他</span>
+                              </a>
+                                                          </dd>
+        </dl>
+                                                                                                                      <dl class="hide " data-role="hide-row">
+          <h2><dt title="北京楼层在售二手房">楼层</dt></h2>
+          <dd>
+                                                                    <a href="/ershoufang/dongcheng/lc1/" class="">
+                <span class="checkbox "></span>
+                <span class="name">低楼层</span>
+                                  <span class="cnt">(358)</span>
+                              </a>
+                                                                    <a href="/ershoufang/dongcheng/lc2/" class="">
+                <span class="checkbox "></span>
+                <span class="name">中楼层</span>
+                                  <span class="cnt">(415)</span>
+                              </a>
+                                                                    <a href="/ershoufang/dongcheng/lc3/" class="">
+                <span class="checkbox "></span>
+                <span class="name">高楼层</span>
+                                  <span class="cnt">(399)</span>
+                              </a>
+                                                          </dd>
+        </dl>
+                                                                                                                                                          <dl class="hide " data-role="hide-row">
+          <h2><dt title="北京朝向在售二手房">朝向</dt></h2>
+          <dd>
+                                                                    <a href="/ershoufang/dongcheng/f1/" class="">
+                <span class="checkbox "></span>
+                <span class="name">朝东</span>
+                                  <span class="cnt">(373)</span>
+                              </a>
+                                                                    <a href="/ershoufang/dongcheng/f2/" class="">
+                <span class="checkbox "></span>
+                <span class="name">朝南</span>
+                                  <span class="cnt">(677)</span>
+                              </a>
+                                                                    <a href="/ershoufang/dongcheng/f3/" class="">
+                <span class="checkbox "></span>
+                <span class="name">朝西</span>
+                                  <span class="cnt">(372)</span>
+                              </a>
+                                                                    <a href="/ershoufang/dongcheng/f4/" class="">
+                <span class="checkbox "></span>
+                <span class="name">朝北</span>
+                                  <span class="cnt">(566)</span>
+                              </a>
+                                                                    <a href="/ershoufang/dongcheng/f5/" class="">
+                <span class="checkbox "></span>
+                <span class="name">南北</span>
+                                  <span class="cnt">(351)</span>
+                              </a>
+                                                          </dd>
+        </dl>
+                                                                                                                                                          <dl class="hide " data-role="hide-row">
+          <h2><dt title="北京楼龄在售二手房">楼龄</dt></h2>
+          <dd>
+                                                                    <a href="/ershoufang/dongcheng/y1/" class="">
+                <span class="checkbox "></span>
+                <span class="name">5年以内</span>
+                                  <span class="cnt">(20)</span>
+                              </a>
+                                                                    <a href="/ershoufang/dongcheng/y2/" class="">
+                <span class="checkbox "></span>
+                <span class="name">10年以内</span>
+                                  <span class="cnt">(166)</span>
+                              </a>
+                                                                    <a href="/ershoufang/dongcheng/y3/" class="">
+                <span class="checkbox "></span>
+                <span class="name">15年以内</span>
+                                  <span class="cnt">(654)</span>
+                              </a>
+                                                                    <a href="/ershoufang/dongcheng/y4/" class="">
+                <span class="checkbox "></span>
+                <span class="name">20年以内</span>
+                                  <span class="cnt">(766)</span>
+                              </a>
+                                                                    <a href="/ershoufang/dongcheng/y5/" class="">
+                <span class="checkbox "></span>
+                <span class="name">20年以上</span>
+                                  <span class="cnt">(419)</span>
+                              </a>
+                                                          </dd>
+        </dl>
+                                                                                                                      <dl class="hide " data-role="hide-row">
+          <h2><dt title="北京类型在售二手房">类型</dt></h2>
+          <dd>
+                                                                    <a href="/ershoufang/dongcheng/bt1/" class="">
+                <span class="checkbox "></span>
+                <span class="name">塔楼</span>
+                                  <span class="cnt">(346)</span>
+                              </a>
+                                                                    <a href="/ershoufang/dongcheng/bt2/" class="">
+                <span class="checkbox "></span>
+                <span class="name">板楼</span>
+                                  <span class="cnt">(454)</span>
+                              </a>
+                                                                    <a href="/ershoufang/dongcheng/bt3/" class="">
+                <span class="checkbox "></span>
+                <span class="name">板塔结合</span>
+                                  <span class="cnt">(382)</span>
+                              </a>
+                                                          </dd>
+        </dl>
+                                                                                                    <dl class="hide " data-role="hide-row">
+          <h2><dt title="北京电梯在售二手房">电梯</dt></h2>
+          <dd>
+                                                                    <a href="/ershoufang/dongcheng/ie2/" class="">
+                <span class="checkbox "></span>
+                <span class="name">有电梯</span>
+                                  <span class="cnt">(646)</span>
+                              </a>
+                                                                    <a href="/ershoufang/dongcheng/ie1/" class="">
+                <span class="checkbox "></span>
+                <span class="name">无电梯</span>
+                                  <span class="cnt">(250)</span>
+                              </a>
+                                                          </dd>
+        </dl>
+                                                                                                                      <dl class="hide " data-role="hide-row">
+          <h2><dt title="北京装修在售二手房">装修</dt></h2>
+          <dd>
+                                                                    <a href="/ershoufang/dongcheng/de1/" class="">
+                <span class="checkbox "></span>
+                <span class="name">精装修</span>
+                                  <span class="cnt">(611)</span>
+                              </a>
+                                                                    <a href="/ershoufang/dongcheng/de2/" class="">
+                <span class="checkbox "></span>
+                <span class="name">普通装修</span>
+                                  <span class="cnt">(448)</span>
+                              </a>
+                                                                    <a href="/ershoufang/dongcheng/de3/" class="">
+                <span class="checkbox "></span>
+                <span class="name">毛坯房</span>
+                                  <span class="cnt">(11)</span>
+                              </a>
+                                                          </dd>
+        </dl>
+                                                                                                    <dl class="hide " data-role="hide-row">
+          <h2><dt title="北京供暖在售二手房">供暖</dt></h2>
+          <dd>
+                                                                    <a href="/ershoufang/dongcheng/hy1/" class="">
+                <span class="checkbox "></span>
+                <span class="name">集体供暖</span>
+                                  <span class="cnt">(955)</span>
+                              </a>
+                                                                    <a href="/ershoufang/dongcheng/hy2/" class="">
+                <span class="checkbox "></span>
+                <span class="name">自供暖</span>
+                                  <span class="cnt">(212)</span>
+                              </a>
+                                                          </dd>
+        </dl>
+                  <dl class="hide otherItem" data-role="hide-row">
+      <dt class="other">其他</dt>
+      <dd>
+      <form id="otherSearchForm">
+        <input class="inp-search" type="text" value="" placeholder="在结果中搜索">
+        <button type="submit" class="btn-search">确定</button>
+      </form>
+      </dd>
+    </dl>
+      </div>
+    <div class="more btn-more">更多选项<span class="arrow"></span></div>
+  </div>
+<div class="content "><!-- 左侧内容 --><div class="leftContent"><div class="orderFilter"><div class="orderTag"><ul><li class='selected'><h3><a href="/ershoufang/dongcheng/">默认排序</span></a></h3></li><li ><h3><a href="/ershoufang/dongcheng/co32/">最新发布</span></a></h3></li><li ><h3><a href="/ershoufang/dongcheng/co21/">房屋总价</a></h3></li><li ><h3><a href="/ershoufang/dongcheng/co41/">房屋单价</a></h3></li><li ><h3><a href="/ershoufang/dongcheng/co11/">房屋面积</a></h3></li><li ><h3><a href="/ershoufang/dongcheng/co52/">最近热门</span></a></h3></li></ul><div class="orderType" id="switchView"><span class="list" title="列表模式"></span><span class="img" title="大图模式"></span></div></div><div class="filterAgain"><div class="title">筛选：</div><ul><li ><h3><a href="/ershoufang/dongcheng/tf1/"><span class="checkbox"></span>满两年/满五年</a></h3></li><li ><h3><a href="/ershoufang/dongcheng/x1/"><span class="checkbox"></span>不限购</a></h3></li><li ><h3><a href="/ershoufang/dongcheng/tt2/"><span class="checkbox"></span>新上</a></h3></li><li ><h3><a href="/ershoufang/dongcheng/su1/"><span class="checkbox"></span>近地铁<div class="info"><i></i><div class="infoContent ">房源所在楼栋到最近地铁口的步行距离在1200米以内。步行距离数据来自百度地图，仅供参考</div></div></a></h3></li><li ><h3><a href="/ershoufang/dongcheng/tt4/"><span class="checkbox"></span>随时看房<div class="info"><i></i><div class="infoContent min-wid">经纪人持有该房源钥匙，您可以随时预约看房</div></div></a></h3></li><li ><h3><a href="/ershoufang/dongcheng/hu1/"><span class="checkbox"></span>不看商住两用</a></h3></li><li ><h3><a href="/ershoufang/dongcheng/nb1/"><span class="checkbox"></span>不看地下室</a></h3></li><li ><h3><a href="/ershoufang/dongcheng/ng1/"><span class="checkbox"></span>不看车位</a></h3></li></ul></div></div><div class="resultDes clear"><h2 class="total fl">共找到<span> 1190 </span>套北京二手房</h2><div class="button fr"><div class="clearBtn hide"><script>with(document)write('<a href="/ershoufang/"><span></span>清空条件</a>');</script></div><div class="saveBtn"><a href="#" id="saveBtn"><span></span>保存搜索</a></div></div></div><div id="newAddHouseContainer"></div><div class="listContentLine"></div><ul class="sellListContent" log-mod="list"><li class="clear"><a class="img " href="http://bj.lianjia.com/ershoufang/101101087281.html" target="_blank"data-log_index="1" data-el="ershoufang" data-sl=""><img class="lj-lazy" src="http://s1.ljcdn.com/feroot/pc/asset/img/blank.gif?_v=20170209175958" data-original="http://image1.ljcdn.com/110000-inspection/2cf75600-4e7b-452f-a215-8f5bf02db44d.jpg.232x174.jpg" alt="上龙西里 3室1厅 750万"></a><div class="info clear"><div class="title"><a class="" href="http://bj.lianjia.com/ershoufang/101101087281.html" target="_blank" data-log_index="1"   data-el="ershoufang"  data-sl="">上龙西里 3室1厅 750万</a></div><div class="address"><div class="houseInfo"><span class="houseIcon"></span><a href="http://bj.lianjia.com/xiaoqu/1111027379462/" target="_blank" data-log_index="1" data-el="region">上龙西里 </a> | 3室1厅 | 80.37平米 | 西南 东北 | 简装</div></div><div class="flood"><div class="positionInfo"><span class="positionIcon"></span>低楼层(共18层)1993年建塔楼  -  <a href="http://bj.lianjia.com/ershoufang/andingmen/" target="_blank">安定门</a></div></div><div class="followInfo"><span class="starIcon"></span>158人关注 / 共84次带看 / 25天以前发布</div><div class="tag"><span class="subway">距离2号线安定门站360米</span><span class="taxfree">房本满五年</span><span class="haskey">随时看房</span></div><div class="priceInfo"><div class="totalPrice"><span>750</span>万</div><div class="unitPrice" data-hid="101101087281" data-rid="1111027379462" data-price="93319"><span>单价93319元/平米</span></div></div></div><div class="listButtonContainer"><div class="btn-follow followBtn" data-hid="101101087281"><span class="follow-text">关注</span></div><div class="compareBtn LOGCLICK" data-hid="101101087281" log-mod="101101087281" data-log_evtid="10230">加入对比</div></div></li><li class="clear"><a class="img " href="http://bj.lianjia.com/ershoufang/101101071443.html" target="_blank"data-log_index="2" data-el="ershoufang" data-sl=""><img class="lj-lazy" src="http://s1.ljcdn.com/feroot/pc/asset/img/blank.gif?_v=20170209175958" data-original="http://image1.ljcdn.com/110000-inspection/5517bc75-6057-4dd7-94bd-bb6b57ae07b1.JPG.232x174.jpg" alt="东北两居，整个国瑞城仅有14套，有钥匙随时看房。"></a><div class="info clear"><div class="title"><a class="" href="http://bj.lianjia.com/ershoufang/101101071443.html" target="_blank" data-log_index="2"   data-el="ershoufang"  data-sl="">东北两居，整个国瑞城仅有14套，有钥匙随时看房。</a></div><div class="address"><div class="houseInfo"><span class="houseIcon"></span><a href="http://bj.lianjia.com/xiaoqu/1111027374691/" target="_blank" data-log_index="2" data-el="region">国瑞城中区 </a> | 2室2厅 | 91.13平米 | 东北 | 简装</div></div><div class="flood"><div class="positionInfo"><span class="positionIcon"></span>中楼层(共16层)2006年建板塔结合  -  <a href="http://bj.lianjia.com/ershoufang/chongwenmen/" target="_blank">崇文门</a></div></div><div class="followInfo"><span class="starIcon"></span>37人关注 / 共40次带看 / 30天以前发布</div><div class="tag"><span class="subway">距离5号线磁器口站648米</span><span class="taxfree">房本满五年</span><span class="haskey">随时看房</span></div><div class="priceInfo"><div class="totalPrice"><span>900</span>万</div><div class="unitPrice" data-hid="101101071443" data-rid="1111027374691" data-price="98761"><span>单价98761元/平米</span></div></div></div><div class="listButtonContainer"><div class="btn-follow followBtn" data-hid="101101071443"><span class="follow-text">关注</span></div><div class="compareBtn LOGCLICK" data-hid="101101071443" log-mod="101101071443" data-log_evtid="10230">加入对比</div></div></li><li class="clear"><a class="img " href="http://bj.lianjia.com/ershoufang/101101116202.html" target="_blank"data-log_index="3" data-el="ershoufang" data-sl=""><img class="lj-lazy" src="http://s1.ljcdn.com/feroot/pc/asset/img/blank.gif?_v=20170209175958" data-original="http://image1.ljcdn.com/110000-inspection/c04c8ca4-1f26-4365-b6c4-2abce6d44f16.jpg.232x174.jpg" alt="和平新城一期 1室0厅 700万"></a><div class="info clear"><div class="title"><a class="" href="http://bj.lianjia.com/ershoufang/101101116202.html" target="_blank" data-log_index="3"   data-el="ershoufang"  data-sl="">和平新城一期 1室0厅 700万</a></div><div class="address"><div class="houseInfo"><span class="houseIcon"></span><a href="http://bj.lianjia.com/xiaoqu/1111027375215/" target="_blank" data-log_index="3" data-el="region">和平新城一期 </a> | 1室0厅 | 63.29平米 | 东 | 精装 | 有电梯</div></div><div class="flood"><div class="positionInfo"><span class="positionIcon"></span>中楼层(共20层)2003年建板塔结合  -  <a href="http://bj.lianjia.com/ershoufang/hepingli/" target="_blank">和平里</a></div></div><div class="followInfo"><span class="starIcon"></span>10人关注 / 共31次带看 / 7天以前发布</div><div class="tag"><span class="subway">距离2号线雍和宫站738米</span><span class="taxfree">房本满五年</span><span class="haskey">随时看房</span></div><div class="priceInfo"><div class="totalPrice"><span>700</span>万</div><div class="unitPrice" data-hid="101101116202" data-rid="1111027375215" data-price="110602"><span>单价110602元/平米</span></div></div></div><div class="listButtonContainer"><div class="btn-follow followBtn" data-hid="101101116202"><span class="follow-text">关注</span></div><div class="compareBtn LOGCLICK" data-hid="101101116202" log-mod="101101116202" data-log_evtid="10230">加入对比</div></div></li><li class="clear"><a class="img " href="http://bj.lianjia.com/ershoufang/101100238931.html" target="_blank"data-log_index="4" data-el="ershoufang" data-sl=""><img class="lj-lazy" src="http://s1.ljcdn.com/feroot/pc/asset/img/blank.gif?_v=20170209175958" data-original="http://image1.ljcdn.com/110000-inspection/e433fe03-47f9-49f5-a79e-c6783e547165.jpg.232x174.jpg" alt="禾风相府 南北通透 三居室 前后花园 人车分流"></a><div class="info clear"><div class="title"><a class="" href="http://bj.lianjia.com/ershoufang/101100238931.html" target="_blank" data-log_index="4"   data-el="ershoufang"  data-sl="">禾风相府 南北通透 三居室 前后花园 人车分流</a><span class="yezhushuo tagBlock">房主自荐</span></div><div class="address"><div class="houseInfo"><span class="houseIcon"></span><a href="http://bj.lianjia.com/xiaoqu/1111027374965/" target="_blank" data-log_index="4" data-el="region">禾风相府 </a> | 3室2厅 | 163.83平米 | 南 北 | 精装 | 有电梯</div></div><div class="flood"><div class="positionInfo"><span class="positionIcon"></span>低楼层(共14层)2008年建板塔结合  -  <a href="http://bj.lianjia.com/ershoufang/jinbaojie/" target="_blank">金宝街</a></div></div><div class="followInfo"><span class="starIcon"></span>298人关注 / 共130次带看 / 7个月以前发布</div><div class="tag"><span class="subway">距离5号线东四站329米</span><span class="taxfree">房本满五年</span><span class="haskey">随时看房</span></div><div class="priceInfo"><div class="totalPrice"><span>1830</span>万</div><div class="unitPrice" data-hid="101100238931" data-rid="1111027374965" data-price="111702"><span>单价111702元/平米</span></div></div></div><div class="listButtonContainer"><div class="btn-follow followBtn" data-hid="101100238931"><span class="follow-text">关注</span></div><div class="compareBtn LOGCLICK" data-hid="101100238931" log-mod="101100238931" data-log_evtid="10230">加入对比</div></div></li><li class="clear"><a class="img " href="http://bj.lianjia.com/ershoufang/101092367784.html" target="_blank"data-log_index="5" data-el="ershoufang" data-sl=""><img class="lj-lazy" src="http://s1.ljcdn.com/feroot/pc/asset/img/blank.gif?_v=20170209175958" data-original="http://image1.ljcdn.com/110000-inspection/bc8c27e1-18ee-46d0-911c-a19f45c432aa.jpg.232x174.jpg" alt="枣苑商品房西北三居，满五年低税费，崇文小学"></a><div class="info clear"><div class="title"><a class="" href="http://bj.lianjia.com/ershoufang/101092367784.html" target="_blank" data-log_index="5"   data-el="ershoufang"  data-sl="">枣苑商品房西北三居，满五年低税费，崇文小学</a></div><div class="address"><div class="houseInfo"><span class="houseIcon"></span><a href="http://bj.lianjia.com/xiaoqu/1111043316306/" target="_blank" data-log_index="5" data-el="region">花市枣苑一期 </a> | 3室2厅 | 135.72平米 | 西 北 | 简装 | 有电梯</div></div><div class="flood"><div class="positionInfo"><span class="positionIcon"></span>低楼层(共18层)2003年建塔楼  -  <a href="http://bj.lianjia.com/ershoufang/donghuashi/" target="_blank">东花市</a></div></div><div class="followInfo"><span class="starIcon"></span>34人关注 / 共42次带看 / 7个月以前发布</div><div class="tag"><span class="subway">距离7号线广渠门内站431米</span><span class="taxfree">房本满五年</span><span class="haskey">随时看房</span></div><div class="priceInfo"><div class="totalPrice"><span>1190</span>万</div><div class="unitPrice" data-hid="101092367784" data-rid="1111043316306" data-price="87681"><span>单价87681元/平米</span></div></div></div><div class="listButtonContainer"><div class="btn-follow followBtn" data-hid="101092367784"><span class="follow-text">关注</span></div><div class="compareBtn LOGCLICK" data-hid="101092367784" log-mod="101092367784" data-log_evtid="10230">加入对比</div></div></li><li class="clear"><a class="img " href="http://bj.lianjia.com/ershoufang/101100902914.html" target="_blank"data-log_index="6" data-el="ershoufang" data-sl=""><img class="lj-lazy" src="http://s1.ljcdn.com/feroot/pc/asset/img/blank.gif?_v=20170209175958" data-original="http://image1.ljcdn.com/110000-inspection/e812202b-3eca-4c83-afe2-df84957b652a.JPG.232x174.jpg" alt="金鱼池南北通透大复式 正对花园、视野好 诚心出售"></a><div class="info clear"><div class="title"><a class="" href="http://bj.lianjia.com/ershoufang/101100902914.html" target="_blank" data-log_index="6"   data-el="ershoufang"  data-sl="">金鱼池南北通透大复式 正对花园、视野好 诚心出售</a></div><div class="address"><div class="houseInfo"><span class="houseIcon"></span><a href="http://bj.lianjia.com/xiaoqu/1111027377502/" target="_blank" data-log_index="6" data-el="region">金鱼池中区 </a> | 4室2厅 | 135.91平米 | 南 北 | 简装</div></div><div class="flood"><div class="positionInfo"><span class="positionIcon"></span>高楼层(共6层)2002年建板塔结合  -  <a href="http://bj.lianjia.com/ershoufang/tiantan/" target="_blank">天坛</a></div></div><div class="followInfo"><span class="starIcon"></span>326人关注 / 共75次带看 / 2个月以前发布</div><div class="tag"><span class="subway">距离7号线桥湾站227米</span><span class="taxfree">房本满五年</span><span class="haskey">随时看房</span></div><div class="priceInfo"><div class="totalPrice"><span>950</span>万</div><div class="unitPrice" data-hid="101100902914" data-rid="1111027377502" data-price="69900"><span>单价69900元/平米</span></div></div></div><div class="listButtonContainer"><div class="btn-follow followBtn" data-hid="101100902914"><span class="follow-text">关注</span></div><div class="compareBtn LOGCLICK" data-hid="101100902914" log-mod="101100902914" data-log_evtid="10230">加入对比</div></div></li><li class="clear"><a class="img " href="http://bj.lianjia.com/ershoufang/101101043670.html" target="_blank"data-log_index="7" data-el="ershoufang" data-sl=""><img class="lj-lazy" src="http://s1.ljcdn.com/feroot/pc/asset/img/blank.gif?_v=20170209175958" data-original="http://image1.ljcdn.com/110000-inspection/fcc5cab9-edad-432a-a827-e041885f541b.jpg.232x174.jpg" alt="户型方方正正 满五年就一套 视野开阔直观汇文中学"></a><div class="info clear"><div class="title"><a class="" href="http://bj.lianjia.com/ershoufang/101101043670.html" target="_blank" data-log_index="7"   data-el="ershoufang"  data-sl="">户型方方正正 满五年就一套 视野开阔直观汇文中学</a><span class="yezhushuo tagBlock">房主自荐</span></div><div class="address"><div class="houseInfo"><span class="houseIcon"></span><a href="http://bj.lianjia.com/xiaoqu/1111027375998/" target="_blank" data-log_index="7" data-el="region">保利蔷薇 </a> | 2室2厅 | 88.63平米 | 西北 | 精装 | 有电梯</div></div><div class="flood"><div class="positionInfo"><span class="positionIcon"></span>中楼层(共16层)2008年建板塔结合  -  <a href="http://bj.lianjia.com/ershoufang/guangqumen/" target="_blank">广渠门</a></div></div><div class="followInfo"><span class="starIcon"></span>91人关注 / 共48次带看 / 1个月以前发布</div><div class="tag"><span class="subway">距离7号线广渠门内站307米</span><span class="taxfree">房本满五年</span><span class="haskey">随时看房</span></div><div class="priceInfo"><div class="totalPrice"><span>980</span>万</div><div class="unitPrice" data-hid="101101043670" data-rid="1111027375998" data-price="110573"><span>单价110573元/平米</span></div></div></div><div class="listButtonContainer"><div class="btn-follow followBtn" data-hid="101101043670"><span class="follow-text">关注</span></div><div class="compareBtn LOGCLICK" data-hid="101101043670" log-mod="101101043670" data-log_evtid="10230">加入对比</div></div></li><li class="clear"><a class="img " href="http://bj.lianjia.com/ershoufang/101101076350.html" target="_blank"data-log_index="8" data-el="ershoufang" data-sl=""><img class="lj-lazy" src="http://s1.ljcdn.com/feroot/pc/asset/img/blank.gif?_v=20170209175958" data-original="http://image1.ljcdn.com/110000-inspection/b19bab4b-17f3-46bf-b067-f2df3df74b27.jpg.232x174.jpg" alt="广渠门内大街 3室1厅 565万"></a><div class="info clear"><div class="title"><a class="" href="http://bj.lianjia.com/ershoufang/101101076350.html" target="_blank" data-log_index="8"   data-el="ershoufang"  data-sl="">广渠门内大街 3室1厅 565万</a></div><div class="address"><div class="houseInfo"><span class="houseIcon"></span><a href="http://bj.lianjia.com/xiaoqu/1111027374682/" target="_blank" data-log_index="8" data-el="region">广渠门内大街 </a> | 3室1厅 | 70平米 | 东 西 北 | 简装</div></div><div class="flood"><div class="positionInfo"><span class="positionIcon"></span>低楼层(共14层)1987年建板塔结合  -  <a href="http://bj.lianjia.com/ershoufang/guangqumen/" target="_blank">广渠门</a></div></div><div class="followInfo"><span class="starIcon"></span>77人关注 / 共43次带看 / 28天以前发布</div><div class="tag"><span class="subway">距离7号线广渠门内站567米</span><span class="taxfree">房本满五年</span><span class="haskey">随时看房</span></div><div class="priceInfo"><div class="totalPrice"><span>565</span>万</div><div class="unitPrice" data-hid="101101076350" data-rid="1111027374682" data-price="80715"><span>单价80715元/平米</span></div></div></div><div class="listButtonContainer"><div class="btn-follow followBtn" data-hid="101101076350"><span class="follow-text">关注</span></div><div class="compareBtn LOGCLICK" data-hid="101101076350" log-mod="101101076350" data-log_evtid="10230">加入对比</div></div></li><li class="clear"><a class="img " href="http://bj.lianjia.com/ershoufang/101101140022.html" target="_blank"data-log_index="9" data-el="ershoufang" data-sl=""><img class="lj-lazy" src="http://s1.ljcdn.com/feroot/pc/asset/img/blank.gif?_v=20170209175958" data-original="http://image1.ljcdn.com/110000-inspection/d8c62de8-8c30-44e2-93e1-1f896e10fc3b.jpg.232x174.jpg" alt="东直门内北小街 景山划片 采光好 视野佳 无遮挡 三居"></a><div class="info clear"><div class="title"><a class="" href="http://bj.lianjia.com/ershoufang/101101140022.html" target="_blank" data-log_index="9"   data-el="ershoufang"  data-sl="">东直门内北小街 景山划片 采光好 视野佳 无遮挡 三居</a><span class="new tagBlock">新上</span><span class="yezhushuo tagBlock">房主自荐</span></div><div class="address"><div class="houseInfo"><span class="houseIcon"></span><a href="http://bj.lianjia.com/xiaoqu/1111027374076/" target="_blank" data-log_index="9" data-el="region">东直门内北小街16号 </a> | 3室2厅 | 90.13平米 | 东 西 | 精装</div></div><div class="flood"><div class="positionInfo"><span class="positionIcon"></span>中楼层(共10层)2003年建板塔结合  -  <a href="http://bj.lianjia.com/ershoufang/dongzhimen/" target="_blank">东直门</a></div></div><div class="followInfo"><span class="starIcon"></span>27人关注 / 共21次带看 / 3天以前发布</div><div class="tag"><span class="subway">距离2号线东直门站722米</span><span class="taxfree">房本满五年</span><span class="haskey">随时看房</span></div><div class="priceInfo"><div class="totalPrice"><span>950</span>万</div><div class="unitPrice" data-hid="101101140022" data-rid="1111027374076" data-price="105404"><span>单价105404元/平米</span></div></div></div><div class="listButtonContainer"><div class="btn-follow followBtn" data-hid="101101140022"><span class="follow-text">关注</span></div><div class="compareBtn LOGCLICK" data-hid="101101140022" log-mod="101101140022" data-log_evtid="10230">加入对比</div></div></li><li class="clear"><a class="img " href="http://bj.lianjia.com/ershoufang/101101122341.html" target="_blank"data-log_index="10" data-el="ershoufang" data-sl=""><img class="lj-lazy" src="http://s1.ljcdn.com/feroot/pc/asset/img/blank.gif?_v=20170209175958" data-original="http://image1.ljcdn.com/110000-inspection/f9efdfc9-1cd8-45cf-bde8-14dd0e11f312.JPG.232x174.jpg" alt="和平里三区 2室1厅 650万"></a><div class="info clear"><div class="title"><a class="" href="http://bj.lianjia.com/ershoufang/101101122341.html" target="_blank" data-log_index="10"   data-el="ershoufang"  data-sl="">和平里三区 2室1厅 650万</a><span class="new tagBlock">新上</span></div><div class="address"><div class="houseInfo"><span class="houseIcon"></span><a href="http://bj.lianjia.com/xiaoqu/1111027375204/" target="_blank" data-log_index="10" data-el="region">和平里三区 </a> | 2室1厅 | 57.02平米 | 南 | 简装</div></div><div class="flood"><div class="positionInfo"><span class="positionIcon"></span>中楼层(共6层)1996年建板楼  -  <a href="http://bj.lianjia.com/ershoufang/hepingli/" target="_blank">和平里</a></div></div><div class="followInfo"><span class="starIcon"></span>17人关注 / 共33次带看 / 6天以前发布</div><div class="tag"><span class="subway">距离5号线和平里北街站281米</span><span class="taxfree">房本满五年</span></div><div class="priceInfo"><div class="totalPrice"><span>650</span>万</div><div class="unitPrice" data-hid="101101122341" data-rid="1111027375204" data-price="113996"><span>单价113996元/平米</span></div></div></div><div class="listButtonContainer"><div class="btn-follow followBtn" data-hid="101101122341"><span class="follow-text">关注</span></div><div class="compareBtn LOGCLICK" data-hid="101101122341" log-mod="101101122341" data-log_evtid="10230">加入对比</div></div></li><li class="clear"><a class="img " href="http://bj.lianjia.com/ershoufang/101100983066.html" target="_blank"data-log_index="11" data-el="ershoufang" data-sl=""><img class="lj-lazy" src="http://s1.ljcdn.com/feroot/pc/asset/img/blank.gif?_v=20170209175958" data-original="http://image1.ljcdn.com/110000-inspection/1ec27325-9cf2-4750-b8e2-1b2f4674f306.jpg.232x174.jpg" alt="小羊宜宾胡同 4室1厅 910万"></a><div class="info clear"><div class="title"><a class="" href="http://bj.lianjia.com/ershoufang/101100983066.html" target="_blank" data-log_index="11"   data-el="ershoufang"  data-sl="">小羊宜宾胡同 4室1厅 910万</a></div><div class="address"><div class="houseInfo"><span class="houseIcon"></span><a href="http://bj.lianjia.com/xiaoqu/1111027381425/" target="_blank" data-log_index="11" data-el="region">小羊宜宾胡同 </a> | 4室1厅 | 93.81平米 | 南 北 | 简装</div></div><div class="flood"><div class="positionInfo"><span class="positionIcon"></span>低楼层(共16层)1992年建塔楼  -  <a href="http://bj.lianjia.com/ershoufang/jianguomennei/" target="_blank">建国门内</a></div></div><div class="followInfo"><span class="starIcon"></span>95人关注 / 共85次带看 / 1个月以前发布</div><div class="tag"><span class="subway">距离1号线建国门站516米</span><span class="taxfree">房本满五年</span><span class="haskey">随时看房</span></div><div class="priceInfo"><div class="totalPrice"><span>910</span>万</div><div class="unitPrice" data-hid="101100983066" data-rid="1111027381425" data-price="97005"><span>单价97005元/平米</span></div></div></div><div class="listButtonContainer"><div class="btn-follow followBtn" data-hid="101100983066"><span class="follow-text">关注</span></div><div class="compareBtn LOGCLICK" data-hid="101100983066" log-mod="101100983066" data-log_evtid="10230">加入对比</div></div></li><li class="clear"><a class="img " href="http://bj.lianjia.com/ershoufang/101100882193.html" target="_blank"data-log_index="12" data-el="ershoufang" data-sl=""><img class="lj-lazy" src="http://s1.ljcdn.com/feroot/pc/asset/img/blank.gif?_v=20170209175958" data-original="http://image1.ljcdn.com/110000-inspection/fd616ad5-1378-49af-abb7-602a8c805f99.jpg.232x174.jpg" alt="把角全凸三居室 双卧室朝南 户型方正无浪费 有储藏间"></a><div class="info clear"><div class="title"><a class="" href="http://bj.lianjia.com/ershoufang/101100882193.html" target="_blank" data-log_index="12"   data-el="ershoufang"  data-sl="">把角全凸三居室 双卧室朝南 户型方正无浪费 有储藏间</a></div><div class="address"><div class="houseInfo"><span class="houseIcon"></span><a href="http://bj.lianjia.com/xiaoqu/1111027375590/" target="_blank" data-log_index="12" data-el="region">安化北里 </a> | 3室1厅 | 80.34平米 | 西南 | 简装 | 有电梯</div></div><div class="flood"><div class="positionInfo"><span class="positionIcon"></span>中楼层(共17层)1989年建塔楼  -  <a href="http://bj.lianjia.com/ershoufang/guangqumen/" target="_blank">广渠门</a></div></div><div class="followInfo"><span class="starIcon"></span>226人关注 / 共118次带看 / 2个月以前发布</div><div class="tag"><span class="subway">距离7号线广渠门内站304米</span><span class="taxfree">房本满五年</span><span class="haskey">随时看房</span></div><div class="priceInfo"><div class="totalPrice"><span>730</span>万</div><div class="unitPrice" data-hid="101100882193" data-rid="1111027375590" data-price="90864"><span>单价90864元/平米</span></div></div></div><div class="listButtonContainer"><div class="btn-follow followBtn" data-hid="101100882193"><span class="follow-text">关注</span></div><div class="compareBtn LOGCLICK" data-hid="101100882193" log-mod="101100882193" data-log_evtid="10230">加入对比</div></div></li><li class="clear"><a class="img " href="http://bj.lianjia.com/ershoufang/101100757100.html" target="_blank"data-log_index="13" data-el="ershoufang" data-sl=""><img class="lj-lazy" src="http://s1.ljcdn.com/feroot/pc/asset/img/blank.gif?_v=20170209175958" data-original="http://image1.ljcdn.com/110000-inspection/3ccedcd5-305c-446a-b86d-665905d0f1f4.jpg.232x174.jpg" alt="东城区 09年新小区 正规两居室 业主诚心出售"></a><div class="info clear"><div class="title"><a class="" href="http://bj.lianjia.com/ershoufang/101100757100.html" target="_blank" data-log_index="13"   data-el="ershoufang"  data-sl="">东城区 09年新小区 正规两居室 业主诚心出售</a><span class="yezhushuo tagBlock">房主自荐</span></div><div class="address"><div class="houseInfo"><span class="houseIcon"></span><a href="http://bj.lianjia.com/xiaoqu/1111027375142/" target="_blank" data-log_index="13" data-el="region">华龙美晟 </a> | 2室1厅 | 78.79平米 | 东 | 简装 | 有电梯</div></div><div class="flood"><div class="positionInfo"><span class="positionIcon"></span>低楼层(共12层)2009年建板塔结合  -  <a href="http://bj.lianjia.com/ershoufang/yongdingmen/" target="_blank">永定门</a></div></div><div class="followInfo"><span class="starIcon"></span>539人关注 / 共178次带看 / 3个月以前发布</div><div class="tag"><span class="subway">距离14号线(东段)永定门外站660米</span><span class="taxfree">房本满五年</span><span class="haskey">随时看房</span></div><div class="priceInfo"><div class="totalPrice"><span>518</span>万</div><div class="unitPrice" data-hid="101100757100" data-rid="1111027375142" data-price="65745"><span>单价65745元/平米</span></div></div></div><div class="listButtonContainer"><div class="btn-follow followBtn" data-hid="101100757100"><span class="follow-text">关注</span></div><div class="compareBtn LOGCLICK" data-hid="101100757100" log-mod="101100757100" data-log_evtid="10230">加入对比</div></div></li><li class="clear"><a class="img " href="http://bj.lianjia.com/ershoufang/101101064523.html" target="_blank"data-log_index="14" data-el="ershoufang" data-sl=""><img class="lj-lazy" src="http://s1.ljcdn.com/feroot/pc/asset/img/blank.gif?_v=20170209175958" data-original="http://image1.ljcdn.com/110000-inspection/822fd21e-8ea9-4331-97e7-9877c9cac0e8.jpg.232x174.jpg" alt="民安小区东直门内北小街 4室1厅 1220万"></a><div class="info clear"><div class="title"><a class="" href="http://bj.lianjia.com/ershoufang/101101064523.html" target="_blank" data-log_index="14"   data-el="ershoufang"  data-sl="">民安小区东直门内北小街 4室1厅 1220万</a></div><div class="address"><div class="houseInfo"><span class="houseIcon"></span><a href="http://bj.lianjia.com/xiaoqu/1111027374075/" target="_blank" data-log_index="14" data-el="region">民安小区东直门内北小街 </a> | 4室1厅 | 118.46平米 | 东 西 北 | 其他 | 有电梯</div></div><div class="flood"><div class="positionInfo"><span class="positionIcon"></span>低楼层(共16层)2003年建板楼  -  <a href="http://bj.lianjia.com/ershoufang/dongzhimen/" target="_blank">东直门</a></div></div><div class="followInfo"><span class="starIcon"></span>23人关注 / 共48次带看 / 1个月以前发布</div><div class="tag"><span class="subway">距离2号线东直门站551米</span><span class="taxfree">房本满五年</span><span class="haskey">随时看房</span></div><div class="priceInfo"><div class="totalPrice"><span>1220</span>万</div><div class="unitPrice" data-hid="101101064523" data-rid="1111027374075" data-price="102989"><span>单价102989元/平米</span></div></div></div><div class="listButtonContainer"><div class="btn-follow followBtn" data-hid="101101064523"><span class="follow-text">关注</span></div><div class="compareBtn LOGCLICK" data-hid="101101064523" log-mod="101101064523" data-log_evtid="10230">加入对比</div></div></li><li class="clear"><a class="img " href="http://bj.lianjia.com/ershoufang/101100764208.html" target="_blank"data-log_index="15" data-el="ershoufang" data-sl=""><img class="lj-lazy" src="http://s1.ljcdn.com/feroot/pc/asset/img/blank.gif?_v=20170209175958" data-original="http://image1.ljcdn.com/110000-inspection/33b89eb5-a1c0-4684-aa0e-ebefd50676224.jpg.232x174.jpg" alt="西革新里110号院 2室1厅 400万"></a><div class="info clear"><div class="title"><a class="" href="http://bj.lianjia.com/ershoufang/101100764208.html" target="_blank" data-log_index="15"   data-el="ershoufang"  data-sl="">西革新里110号院 2室1厅 400万</a><span class="yezhushuo tagBlock">房主自荐</span></div><div class="address"><div class="houseInfo"><span class="houseIcon"></span><a href="http://bj.lianjia.com/xiaoqu/1111027380769/" target="_blank" data-log_index="15" data-el="region">西革新里110号院 </a> | 2室1厅 | 61.4平米 | 南 北 | 简装</div></div><div class="flood"><div class="positionInfo"><span class="positionIcon"></span>高楼层(共6层)1992年建板楼  -  <a href="http://bj.lianjia.com/ershoufang/xiluoyuan/" target="_blank">西罗园</a></div></div><div class="followInfo"><span class="starIcon"></span>439人关注 / 共100次带看 / 3个月以前发布</div><div class="tag"><span class="subway">距离14号线(东段)永定门外站893米</span><span class="taxfree">房本满五年</span><span class="haskey">随时看房</span></div><div class="priceInfo"><div class="totalPrice"><span>400</span>万</div><div class="unitPrice" data-hid="101100764208" data-rid="1111027380769" data-price="65147"><span>单价65147元/平米</span></div></div></div><div class="listButtonContainer"><div class="btn-follow followBtn" data-hid="101100764208"><span class="follow-text">关注</span></div><div class="compareBtn LOGCLICK" data-hid="101100764208" log-mod="101100764208" data-log_evtid="10230">加入对比</div></div></li><li class="clear"><a class="img " href="http://bj.lianjia.com/ershoufang/101100873120.html" target="_blank"data-log_index="16" data-el="ershoufang" data-sl=""><img class="lj-lazy" src="http://s1.ljcdn.com/feroot/pc/asset/img/blank.gif?_v=20170209175958" data-original="http://image1.ljcdn.com/110000-inspection/38d1afa8-de8a-4ce5-9d6b-ef9d609aadc3.jpg.232x174.jpg" alt="协和医院 灯市口近 166中学 带电梯"></a><div class="info clear"><div class="title"><a class="" href="http://bj.lianjia.com/ershoufang/101100873120.html" target="_blank" data-log_index="16"   data-el="ershoufang"  data-sl="">协和医院 灯市口近 166中学 带电梯</a></div><div class="address"><div class="houseInfo"><span class="houseIcon"></span><a href="http://bj.lianjia.com/xiaoqu/1111027381425/" target="_blank" data-log_index="16" data-el="region">小羊宜宾胡同 </a> | 2室1厅 | 61.77平米 | 南 | 简装 | 有电梯</div></div><div class="flood"><div class="positionInfo"><span class="positionIcon"></span>低楼层(共16层)1992年建塔楼  -  <a href="http://bj.lianjia.com/ershoufang/jianguomennei/" target="_blank">建国门内</a></div></div><div class="followInfo"><span class="starIcon"></span>168人关注 / 共158次带看 / 2个月以前发布</div><div class="tag"><span class="subway">距离1号线建国门站516米</span><span class="taxfree">房本满五年</span><span class="haskey">随时看房</span></div><div class="priceInfo"><div class="totalPrice"><span>650</span>万</div><div class="unitPrice" data-hid="101100873120" data-rid="1111027381425" data-price="105230"><span>单价105230元/平米</span></div></div></div><div class="listButtonContainer"><div class="btn-follow followBtn" data-hid="101100873120"><span class="follow-text">关注</span></div><div class="compareBtn LOGCLICK" data-hid="101100873120" log-mod="101100873120" data-log_evtid="10230">加入对比</div></div></li><li class="clear"><a class="img " href="http://bj.lianjia.com/ershoufang/101100900395.html" target="_blank"data-log_index="17" data-el="ershoufang" data-sl=""><img class="lj-lazy" src="http://s1.ljcdn.com/feroot/pc/asset/img/blank.gif?_v=20170209175958" data-original="http://image1.ljcdn.com/110000-inspection/2726c527-7f33-4906-a97e-8ba085430b52.jpg.232x174.jpg" alt="满五年住宅 没有个税 可改三居室"></a><div class="info clear"><div class="title"><a class="" href="http://bj.lianjia.com/ershoufang/101100900395.html" target="_blank" data-log_index="17"   data-el="ershoufang"  data-sl="">满五年住宅 没有个税 可改三居室</a></div><div class="address"><div class="houseInfo"><span class="houseIcon"></span><a href="http://bj.lianjia.com/xiaoqu/1111027375280/" target="_blank" data-log_index="17" data-el="region">海晟名苑 </a> | 2室1厅 | 140.53平米 | 东 西 | 简装 | 有电梯</div></div><div class="flood"><div class="positionInfo"><span class="positionIcon"></span>低楼层(共20层)2003年建板塔结合  -  <a href="http://bj.lianjia.com/ershoufang/gongti/" target="_blank">工体</a></div></div><div class="followInfo"><span class="starIcon"></span>48人关注 / 共93次带看 / 2个月以前发布</div><div class="tag"><span class="subway">距离2号线东直门站592米</span><span class="taxfree">房本满五年</span><span class="haskey">随时看房</span></div><div class="priceInfo"><div class="totalPrice"><span>1550</span>万</div><div class="unitPrice" data-hid="101100900395" data-rid="1111027375280" data-price="110297"><span>单价110297元/平米</span></div></div></div><div class="listButtonContainer"><div class="btn-follow followBtn" data-hid="101100900395"><span class="follow-text">关注</span></div><div class="compareBtn LOGCLICK" data-hid="101100900395" log-mod="101100900395" data-log_evtid="10230">加入对比</div></div></li><li class="clear"><a class="img " href="http://bj.lianjia.com/ershoufang/101100983114.html" target="_blank"data-log_index="18" data-el="ershoufang" data-sl=""><img class="lj-lazy" src="http://s1.ljcdn.com/feroot/pc/asset/img/blank.gif?_v=20170209175958" data-original="http://image1.ljcdn.com/110000-inspection/8f67d98e-3a11-4a12-a5cc-d0e3057525df.jpg.232x174.jpg" alt="朝阳门内大街 2室1厅 560万"></a><div class="info clear"><div class="title"><a class="" href="http://bj.lianjia.com/ershoufang/101100983114.html" target="_blank" data-log_index="18"   data-el="ershoufang"  data-sl="">朝阳门内大街 2室1厅 560万</a></div><div class="address"><div class="houseInfo"><span class="houseIcon"></span><a href="http://bj.lianjia.com/xiaoqu/1111027376667/" target="_blank" data-log_index="18" data-el="region">朝阳门内大街 </a> | 2室1厅 | 69.33平米 | 南 | 精装</div></div><div class="flood"><div class="positionInfo"><span class="positionIcon"></span>中楼层(共5层)1982年建板楼  -  <a href="http://bj.lianjia.com/ershoufang/chaoyangmennei1/" target="_blank">朝阳门内</a></div></div><div class="followInfo"><span class="starIcon"></span>184人关注 / 共64次带看 / 1个月以前发布</div><div class="tag"><span class="subway">距离2号线朝阳门站275米</span><span class="taxfree">房本满五年</span><span class="haskey">随时看房</span></div><div class="priceInfo"><div class="totalPrice"><span>560</span>万</div><div class="unitPrice" data-hid="101100983114" data-rid="1111027376667" data-price="80774"><span>单价80774元/平米</span></div></div></div><div class="listButtonContainer"><div class="btn-follow followBtn" data-hid="101100983114"><span class="follow-text">关注</span></div><div class="compareBtn LOGCLICK" data-hid="101100983114" log-mod="101100983114" data-log_evtid="10230">加入对比</div></div></li><li class="clear"><a class="img " href="http://bj.lianjia.com/ershoufang/101100592460.html" target="_blank"data-log_index="19" data-el="ershoufang" data-sl=""><img class="lj-lazy" src="http://s1.ljcdn.com/feroot/pc/asset/img/blank.gif?_v=20170209175958" data-original="http://image1.ljcdn.com/110000-inspection/f200b6e5-f691-4c0f-9c33-8f1650165e8e.jpg.232x174.jpg" alt="天天家园 2室1厅 939万"></a><div class="info clear"><div class="title"><a class="" href="http://bj.lianjia.com/ershoufang/101100592460.html" target="_blank" data-log_index="19"   data-el="ershoufang"  data-sl="">天天家园 2室1厅 939万</a><span class="yezhushuo tagBlock">房主自荐</span></div><div class="address"><div class="houseInfo"><span class="houseIcon"></span><a href="http://bj.lianjia.com/xiaoqu/1111027380027/" target="_blank" data-log_index="19" data-el="region">天天家园 </a> | 2室1厅 | 125.02平米 | 南 北 | 精装 | 有电梯</div></div><div class="flood"><div class="positionInfo"><span class="positionIcon"></span>中楼层(共11层)2002年建板塔结合  -  <a href="http://bj.lianjia.com/ershoufang/yongdingmen/" target="_blank">永定门</a></div></div><div class="followInfo"><span class="starIcon"></span>353人关注 / 共148次带看 / 4个月以前发布</div><div class="tag"><span class="subway">距离14号线(东段)永定门外站503米</span><span class="taxfree">房本满五年</span><span class="haskey">随时看房</span></div><div class="priceInfo"><div class="totalPrice"><span>939</span>万</div><div class="unitPrice" data-hid="101100592460" data-rid="1111027380027" data-price="75108"><span>单价75108元/平米</span></div></div></div><div class="listButtonContainer"><div class="btn-follow followBtn" data-hid="101100592460"><span class="follow-text">关注</span></div><div class="compareBtn LOGCLICK" data-hid="101100592460" log-mod="101100592460" data-log_evtid="10230">加入对比</div></div></li><li class="clear"><a class="img " href="http://bj.lianjia.com/ershoufang/101100597925.html" target="_blank"data-log_index="20" data-el="ershoufang" data-sl=""><img class="lj-lazy" src="http://s1.ljcdn.com/feroot/pc/asset/img/blank.gif?_v=20170209175958" data-original="http://image1.ljcdn.com/110000-inspection/b7780ffb-4589-4e8b-b202-d8ecbaac30e4.jpg.232x174.jpg" alt="都市馨园三居室    南北通透    商品房  前后不临街"></a><div class="info clear"><div class="title"><a class="" href="http://bj.lianjia.com/ershoufang/101100597925.html" target="_blank" data-log_index="20"   data-el="ershoufang"  data-sl="">都市馨园三居室    南北通透    商品房  前后不临街</a></div><div class="address"><div class="houseInfo"><span class="houseIcon"></span><a href="http://bj.lianjia.com/xiaoqu/1111027381005/" target="_blank" data-log_index="20" data-el="region">兴隆都市馨园 </a> | 3室2厅 | 130.7平米 | 南 北 | 精装 | 无电梯</div></div><div class="flood"><div class="positionInfo"><span class="positionIcon"></span>高楼层(共6层)2003年建板塔结合  -  <a href="http://bj.lianjia.com/ershoufang/chongwenmen/" target="_blank">崇文门</a></div></div><div class="followInfo"><span class="starIcon"></span>369人关注 / 共75次带看 / 4个月以前发布</div><div class="tag"><span class="subway">距离7号线桥湾站390米</span><span class="taxfree">房本满五年</span><span class="haskey">随时看房</span></div><div class="priceInfo"><div class="totalPrice"><span>980</span>万</div><div class="unitPrice" data-hid="101100597925" data-rid="1111027381005" data-price="74981"><span>单价74981元/平米</span></div></div></div><div class="listButtonContainer"><div class="btn-follow followBtn" data-hid="101100597925"><span class="follow-text">关注</span></div><div class="compareBtn LOGCLICK" data-hid="101100597925" log-mod="101100597925" data-log_evtid="10230">加入对比</div></div></li><li class="clear"><a class="img " href="http://bj.lianjia.com/ershoufang/101101070135.html" target="_blank"data-log_index="21" data-el="ershoufang" data-sl=""><img class="lj-lazy" src="http://s1.ljcdn.com/feroot/pc/asset/img/blank.gif?_v=20170209175958" data-original="http://image1.ljcdn.com/110000-inspection/a073fe44-6f6a-4905-a66e-1445b4f0befb7.jpg.232x174.jpg" alt="民安小区东直门北中街 2室1厅 850万"></a><div class="info clear"><div class="title"><a class="" href="http://bj.lianjia.com/ershoufang/101101070135.html" target="_blank" data-log_index="21"   data-el="ershoufang"  data-sl="">民安小区东直门北中街 2室1厅 850万</a></div><div class="address"><div class="houseInfo"><span class="houseIcon"></span><a href="http://bj.lianjia.com/xiaoqu/1111027374074/" target="_blank" data-log_index="21" data-el="region">民安小区东直门北中街 </a> | 2室1厅 | 71.49平米 | 南 | 简装</div></div><div class="flood"><div class="positionInfo"><span class="positionIcon"></span>中楼层(共11层)2002年建板塔结合  -  <a href="http://bj.lianjia.com/ershoufang/dongzhimen/" target="_blank">东直门</a></div></div><div class="followInfo"><span class="starIcon"></span>85人关注 / 共33次带看 / 30天以前发布</div><div class="tag"><span class="subway">距离2号线东直门站296米</span><span class="taxfree">房本满五年</span></div><div class="priceInfo"><div class="totalPrice"><span>850</span>万</div><div class="unitPrice" data-hid="101101070135" data-rid="1111027374074" data-price="118898"><span>单价118898元/平米</span></div></div></div><div class="listButtonContainer"><div class="btn-follow followBtn" data-hid="101101070135"><span class="follow-text">关注</span></div><div class="compareBtn LOGCLICK" data-hid="101101070135" log-mod="101101070135" data-log_evtid="10230">加入对比</div></div></li><li class="clear"><a class="img " href="http://bj.lianjia.com/ershoufang/101101081361.html" target="_blank"data-log_index="22" data-el="ershoufang" data-sl=""><img class="lj-lazy" src="http://s1.ljcdn.com/feroot/pc/asset/img/blank.gif?_v=20170209175958" data-original="http://image1.ljcdn.com/110000-inspection/553f3a6f-3912-4a1c-80a5-65bd6d6bd46e.jpg.232x174.jpg" alt="九三学园 精装全明三居 南北通透楼龄新 满五税费少"></a><div class="info clear"><div class="title"><a class="" href="http://bj.lianjia.com/ershoufang/101101081361.html" target="_blank" data-log_index="22"   data-el="ershoufang"  data-sl="">九三学园 精装全明三居 南北通透楼龄新 满五税费少</a></div><div class="address"><div class="houseInfo"><span class="houseIcon"></span><a href="http://bj.lianjia.com/xiaoqu/1111027380897/" target="_blank" data-log_index="22" data-el="region">小黄庄二区 </a> | 3室1厅 | 72.39平米 | 东南 北 | 精装 | 无电梯</div></div><div class="flood"><div class="positionInfo"><span class="positionIcon"></span>高楼层(共6层)1995年建板楼  -  <a href="http://bj.lianjia.com/ershoufang/anzhen1/" target="_blank">安贞</a></div></div><div class="followInfo"><span class="starIcon"></span>135人关注 / 共26次带看 / 27天以前发布</div><div class="tag"><span class="subway">距离5号线和平西桥站654米</span><span class="taxfree">房本满五年</span></div><div class="priceInfo"><div class="totalPrice"><span>750</span>万</div><div class="unitPrice" data-hid="101101081361" data-rid="1111027380897" data-price="103606"><span>单价103606元/平米</span></div></div></div><div class="listButtonContainer"><div class="btn-follow followBtn" data-hid="101101081361"><span class="follow-text">关注</span></div><div class="compareBtn LOGCLICK" data-hid="101101081361" log-mod="101101081361" data-log_evtid="10230">加入对比</div></div></li><li class="clear"><a class="img " href="http://bj.lianjia.com/ershoufang/101101111400.html" target="_blank"data-log_index="23" data-el="ershoufang" data-sl=""><img class="lj-lazy" src="http://s1.ljcdn.com/feroot/pc/asset/img/blank.gif?_v=20170209175958" data-original="http://image1.ljcdn.com/110000-inspection/f400e8e3-9cc8-487c-9e13-af15503cb93c.JPG.232x174.jpg" alt="和平里四小，楼龄新，配套成熟，交通便利。"></a><div class="info clear"><div class="title"><a class="" href="http://bj.lianjia.com/ershoufang/101101111400.html" target="_blank" data-log_index="23"   data-el="ershoufang"  data-sl="">和平里四小，楼龄新，配套成熟，交通便利。</a><span class="yezhushuo tagBlock">房主自荐</span></div><div class="address"><div class="houseInfo"><span class="houseIcon"></span><a href="http://bj.lianjia.com/xiaoqu/1111027375198/" target="_blank" data-log_index="23" data-el="region">和平里东街9号院 </a> | 2室1厅 | 83.08平米 | 西北 | 简装 | 有电梯</div></div><div class="flood"><div class="positionInfo"><span class="positionIcon"></span>中楼层(共16层)2002年建塔楼  -  <a href="http://bj.lianjia.com/ershoufang/hepingli/" target="_blank">和平里</a></div></div><div class="followInfo"><span class="starIcon"></span>20人关注 / 共8次带看 / 7天以前发布</div><div class="tag"><span class="subway">距离5号线和平里北街站691米</span><span class="taxfree">房本满五年</span></div><div class="priceInfo"><div class="totalPrice"><span>850</span>万</div><div class="unitPrice" data-hid="101101111400" data-rid="1111027375198" data-price="102312"><span>单价102312元/平米</span></div></div></div><div class="listButtonContainer"><div class="btn-follow followBtn" data-hid="101101111400"><span class="follow-text">关注</span></div><div class="compareBtn LOGCLICK" data-hid="101101111400" log-mod="101101111400" data-log_evtid="10230">加入对比</div></div></li><li class="clear"><a class="img " href="http://bj.lianjia.com/ershoufang/101101118655.html" target="_blank"data-log_index="24" data-el="ershoufang" data-sl=""><img class="lj-lazy" src="http://s1.ljcdn.com/feroot/pc/asset/img/blank.gif?_v=20170209175958" data-original="http://image1.ljcdn.com/110000-inspection/438dcb22-19e3-4c99-b464-0a3a790667bd.JPG.232x174.jpg" alt="新景家园西区 2室1厅 850万"></a><div class="info clear"><div class="title"><a class="" href="http://bj.lianjia.com/ershoufang/101101118655.html" target="_blank" data-log_index="24"   data-el="ershoufang"  data-sl="">新景家园西区 2室1厅 850万</a><span class="new tagBlock">新上</span><span class="yezhushuo tagBlock">房主自荐</span></div><div class="address"><div class="houseInfo"><span class="houseIcon"></span><a href="http://bj.lianjia.com/xiaoqu/1111027380931/" target="_blank" data-log_index="24" data-el="region">新景家园西区 </a> | 2室1厅 | 76.69平米 | 南 北 | 精装</div></div><div class="flood"><div class="positionInfo"><span class="positionIcon"></span>高楼层(共18层)2004年建板塔结合  -  <a href="http://bj.lianjia.com/ershoufang/chongwenmen/" target="_blank">崇文门</a></div></div><div class="followInfo"><span class="starIcon"></span>13人关注 / 共25次带看 / 6天以前发布</div><div class="tag"><span class="subway">距离5号线磁器口站284米</span><span class="taxfree">房本满五年</span></div><div class="priceInfo"><div class="totalPrice"><span>850</span>万</div><div class="unitPrice" data-hid="101101118655" data-rid="1111027380931" data-price="110836"><span>单价110836元/平米</span></div></div></div><div class="listButtonContainer"><div class="btn-follow followBtn" data-hid="101101118655"><span class="follow-text">关注</span></div><div class="compareBtn LOGCLICK" data-hid="101101118655" log-mod="101101118655" data-log_evtid="10230">加入对比</div></div></li><li class="clear"><a class="img " href="http://bj.lianjia.com/ershoufang/101100840103.html" target="_blank"data-log_index="25" data-el="ershoufang" data-sl=""><img class="lj-lazy" src="http://s1.ljcdn.com/feroot/pc/asset/img/blank.gif?_v=20170209175958" data-original="http://image1.ljcdn.com/110000-inspection/c5ed514c-be5f-4afc-a93a-d0a4f78b28de.jpg.232x174.jpg" alt="花市枣苑二期两居两卫，满五年无个税，有钥匙"></a><div class="info clear"><div class="title"><a class="" href="http://bj.lianjia.com/ershoufang/101100840103.html" target="_blank" data-log_index="25"   data-el="ershoufang"  data-sl="">花市枣苑二期两居两卫，满五年无个税，有钥匙</a></div><div class="address"><div class="houseInfo"><span class="houseIcon"></span><a href="http://bj.lianjia.com/xiaoqu/1111043316665/" target="_blank" data-log_index="25" data-el="region">花市枣苑二期 </a> | 2室1厅 | 121.87平米 | 西北 | 简装 | 有电梯</div></div><div class="flood"><div class="positionInfo"><span class="positionIcon"></span>低楼层(共19层)2003年建塔楼  -  <a href="http://bj.lianjia.com/ershoufang/donghuashi/" target="_blank">东花市</a></div></div><div class="followInfo"><span class="starIcon"></span>13人关注 / 共36次带看 / 2个月以前发布</div><div class="tag"><span class="subway">距离7号线广渠门内站235米</span><span class="taxfree">房本满五年</span><span class="haskey">随时看房</span></div><div class="priceInfo"><div class="totalPrice"><span>1100</span>万</div><div class="unitPrice" data-hid="101100840103" data-rid="1111043316665" data-price="90261"><span>单价90261元/平米</span></div></div></div><div class="listButtonContainer"><div class="btn-follow followBtn" data-hid="101100840103"><span class="follow-text">关注</span></div><div class="compareBtn LOGCLICK" data-hid="101100840103" log-mod="101100840103" data-log_evtid="10230">加入对比</div></div></li><li class="clear"><a class="img " href="http://bj.lianjia.com/ershoufang/101101083814.html" target="_blank"data-log_index="26" data-el="ershoufang" data-sl=""><img class="lj-lazy" src="http://s1.ljcdn.com/feroot/pc/asset/img/blank.gif?_v=20170209175958" data-original="http://image1.ljcdn.com/110000-inspection/6b58e3e1-ffec-435c-846e-ba0bc0a5975c.jpg.232x174.jpg" alt="建国门内大街 1室1厅 550万"></a><div class="info clear"><div class="title"><a class="" href="http://bj.lianjia.com/ershoufang/101101083814.html" target="_blank" data-log_index="26"   data-el="ershoufang"  data-sl="">建国门内大街 1室1厅 550万</a></div><div class="address"><div class="houseInfo"><span class="houseIcon"></span><a href="http://bj.lianjia.com/xiaoqu/1111027377141/" target="_blank" data-log_index="26" data-el="region">建国门内大街 </a> | 1室1厅 | 48.65平米 | 西 | 简装 | 无电梯</div></div><div class="flood"><div class="positionInfo"><span class="positionIcon"></span>中楼层(共6层)1992年建板楼  -  <a href="http://bj.lianjia.com/ershoufang/jianguomenwai/" target="_blank">建国门外</a></div></div><div class="followInfo"><span class="starIcon"></span>17人关注 / 共32次带看 / 26天以前发布</div><div class="tag"><span class="subway">距离1号线建国门站252米</span><span class="taxfree">房本满五年</span><span class="haskey">随时看房</span></div><div class="priceInfo"><div class="totalPrice"><span>550</span>万</div><div class="unitPrice" data-hid="101101083814" data-rid="1111027377141" data-price="113053"><span>单价113053元/平米</span></div></div></div><div class="listButtonContainer"><div class="btn-follow followBtn" data-hid="101101083814"><span class="follow-text">关注</span></div><div class="compareBtn LOGCLICK" data-hid="101101083814" log-mod="101101083814" data-log_evtid="10230">加入对比</div></div></li><li class="clear"><a class="img " href="http://bj.lianjia.com/ershoufang/101100952045.html" target="_blank"data-log_index="27" data-el="ershoufang" data-sl=""><img class="lj-lazy" src="http://s1.ljcdn.com/feroot/pc/asset/img/blank.gif?_v=20170209175958" data-original="http://image1.ljcdn.com/110000-inspection/45487bca-8a78-4751-ad58-e7b116547f021.jpg.232x174.jpg" alt="西向 两居室 视野好  商品房 高层"></a><div class="info clear"><div class="title"><a class="" href="http://bj.lianjia.com/ershoufang/101100952045.html" target="_blank" data-log_index="27"   data-el="ershoufang"  data-sl="">西向 两居室 视野好  商品房 高层</a></div><div class="address"><div class="houseInfo"><span class="houseIcon"></span><a href="http://bj.lianjia.com/xiaoqu/1111027378078/" target="_blank" data-log_index="27" data-el="region">丽水湾畔家园 </a> | 2室1厅 | 130平米 | 西 | 简装 | 有电梯</div></div><div class="flood"><div class="positionInfo"><span class="positionIcon"></span>高楼层(共21层)2002年建塔楼  -  <a href="http://bj.lianjia.com/ershoufang/guangqumen/" target="_blank">广渠门</a></div></div><div class="followInfo"><span class="starIcon"></span>24人关注 / 共22次带看 / 2个月以前发布</div><div class="tag"><span class="subway">距离7号线广渠门内站566米</span><span class="taxfree">房本满五年</span><span class="haskey">随时看房</span></div><div class="priceInfo"><div class="totalPrice"><span>1100</span>万</div><div class="unitPrice" data-hid="101100952045" data-rid="1111027378078" data-price="84616"><span>单价84616元/平米</span></div></div></div><div class="listButtonContainer"><div class="btn-follow followBtn" data-hid="101100952045"><span class="follow-text">关注</span></div><div class="compareBtn LOGCLICK" data-hid="101100952045" log-mod="101100952045" data-log_evtid="10230">加入对比</div></div></li><li class="clear"><a class="img " href="http://bj.lianjia.com/ershoufang/101101034394.html" target="_blank"data-log_index="28" data-el="ershoufang" data-sl=""><img class="lj-lazy" src="http://s1.ljcdn.com/feroot/pc/asset/img/blank.gif?_v=20170209175958" data-original="http://image1.ljcdn.com/110000-inspection/38f5b22a-f39c-4d0d-b788-5518389dbc6c.jpg.232x174.jpg" alt="六铺炕 3室1厅 820万"></a><div class="info clear"><div class="title"><a class="" href="http://bj.lianjia.com/ershoufang/101101034394.html" target="_blank" data-log_index="28"   data-el="ershoufang"  data-sl="">六铺炕 3室1厅 820万</a></div><div class="address"><div class="houseInfo"><span class="houseIcon"></span><a href="http://bj.lianjia.com/xiaoqu/1111027378022/" target="_blank" data-log_index="28" data-el="region">六铺炕 </a> | 3室1厅 | 72.84平米 | 南 北 | 简装</div></div><div class="flood"><div class="positionInfo"><span class="positionIcon"></span>低楼层(共5层)1980年建板楼  -  <a href="http://bj.lianjia.com/ershoufang/liupukang/" target="_blank">六铺炕</a></div></div><div class="followInfo"><span class="starIcon"></span>127人关注 / 共87次带看 / 1个月以前发布</div><div class="tag"><span class="subway">距离8号线安德里北街站58米</span><span class="taxfree">房本满五年</span></div><div class="priceInfo"><div class="totalPrice"><span>820</span>万</div><div class="unitPrice" data-hid="101101034394" data-rid="1111027378022" data-price="112576"><span>单价112576元/平米</span></div></div></div><div class="listButtonContainer"><div class="btn-follow followBtn" data-hid="101101034394"><span class="follow-text">关注</span></div><div class="compareBtn LOGCLICK" data-hid="101101034394" log-mod="101101034394" data-log_evtid="10230">加入对比</div></div></li><li class="clear"><a class="img " href="http://bj.lianjia.com/ershoufang/101101023883.html" target="_blank"data-log_index="29" data-el="ershoufang" data-sl=""><img class="lj-lazy" src="http://s1.ljcdn.com/feroot/pc/asset/img/blank.gif?_v=20170209175958" data-original="http://image1.ljcdn.com/110000-inspection/0a606de2-a8fe-4429-a2ec-cdbbab4fd78b.jpg.232x174.jpg" alt="东直门内北小街16号院 东西大两居   有电梯"></a><div class="info clear"><div class="title"><a class="" href="http://bj.lianjia.com/ershoufang/101101023883.html" target="_blank" data-log_index="29"   data-el="ershoufang"  data-sl="">东直门内北小街16号院 东西大两居   有电梯</a></div><div class="address"><div class="houseInfo"><span class="houseIcon"></span><a href="http://bj.lianjia.com/xiaoqu/1111027374076/" target="_blank" data-log_index="29" data-el="region">东直门内北小街16号 </a> | 2室2厅 | 89.74平米 | 东 西 | 简装</div></div><div class="flood"><div class="positionInfo"><span class="positionIcon"></span>高楼层(共10层)2003年建板塔结合  -  <a href="http://bj.lianjia.com/ershoufang/dongzhimen/" target="_blank">东直门</a></div></div><div class="followInfo"><span class="starIcon"></span>95人关注 / 共33次带看 / 1个月以前发布</div><div class="tag"><span class="subway">距离2号线雍和宫站739米</span><span class="taxfree">房本满五年</span></div><div class="priceInfo"><div class="totalPrice"><span>860</span>万</div><div class="unitPrice" data-hid="101101023883" data-rid="1111027374076" data-price="95833"><span>单价95833元/平米</span></div></div></div><div class="listButtonContainer"><div class="btn-follow followBtn" data-hid="101101023883"><span class="follow-text">关注</span></div><div class="compareBtn LOGCLICK" data-hid="101101023883" log-mod="101101023883" data-log_evtid="10230">加入对比</div></div></li><li class="clear"><a class="img " href="http://bj.lianjia.com/ershoufang/101101015122.html" target="_blank"data-log_index="30" data-el="ershoufang" data-sl=""><img class="lj-lazy" src="http://s1.ljcdn.com/feroot/pc/asset/img/blank.gif?_v=20170209175958" data-original="http://image1.ljcdn.com/110000-inspection/e3651172-42b7-4b72-8851-7969128aa9ef.jpg.232x174.jpg" alt="天娇园商品房 朝东2居 对小区花园 拎包入住"></a><div class="info clear"><div class="title"><a class="" href="http://bj.lianjia.com/ershoufang/101101015122.html" target="_blank" data-log_index="30"   data-el="ershoufang"  data-sl="">天娇园商品房 朝东2居 对小区花园 拎包入住</a></div><div class="address"><div class="houseInfo"><span class="houseIcon"></span><a href="http://bj.lianjia.com/xiaoqu/1111027379888/" target="_blank" data-log_index="30" data-el="region">天娇园 </a> | 2室2厅 | 91.48平米 | 东 | 简装 | 有电梯</div></div><div class="flood"><div class="positionInfo"><span class="positionIcon"></span>中楼层(共11层)2008年建板塔结合  -  <a href="http://bj.lianjia.com/ershoufang/donghuashi/" target="_blank">东花市</a></div></div><div class="followInfo"><span class="starIcon"></span>100人关注 / 共59次带看 / 1个月以前发布</div><div class="tag"><span class="subway">距离7号线广渠门内站552米</span><span class="taxfree">房本满五年</span></div><div class="priceInfo"><div class="totalPrice"><span>850</span>万</div><div class="unitPrice" data-hid="101101015122" data-rid="1111027379888" data-price="92917"><span>单价92917元/平米</span></div></div></div><div class="listButtonContainer"><div class="btn-follow followBtn" data-hid="101101015122"><span class="follow-text">关注</span></div><div class="compareBtn LOGCLICK" data-hid="101101015122" log-mod="101101015122" data-log_evtid="10230">加入对比</div></div></li></ul>
+<div class="bigImgList" style="display: none;" log-mod="list"><div class="item" data-houseid="101101087281"><a class="img" href="http://bj.lianjia.com/ershoufang/101101087281.html" target="_blank" data-bl="list" data-log_index="1" data-el="ershoufang"><img class="lj-lazy" src="http://s1.ljcdn.com/feroot/pc/asset/img/blank.gif?_v=20170209175958" data-original="http://image1.ljcdn.com/110000-inspection/2cf75600-4e7b-452f-a215-8f5bf02db44d.jpg.437x300.jpg"><div class="btn-follow follow" data-hid="101101087281"><span class="star"></span><span class="follow-text">关注</span></div><div class="leftArrow"><span></span></div><div class="rightArrow"><span></span></div><div class="price"><span>750</span>万</div></a><a class="title" href="http://bj.lianjia.com/ershoufang/101101087281.html" target="_blank" data-bl="list" data-log_index="1" data-el="ershoufang">上龙西里 3室1厅 750万</a><div class="info">安定门<span>/</span>3室1厅<span>/</span>80.37平米<span>/</span>西南 东北<span>/</span>简装</div><div class="tag"><span class="subway">距离2号线安定门站360米</span><span class="taxfree">房本满五年</span><span class="haskey">随时看房</span></div></div><div class="item" data-houseid="101101071443"><a class="img" href="http://bj.lianjia.com/ershoufang/101101071443.html" target="_blank" data-bl="list" data-log_index="2" data-el="ershoufang"><img class="lj-lazy" src="http://s1.ljcdn.com/feroot/pc/asset/img/blank.gif?_v=20170209175958" data-original="http://image1.ljcdn.com/110000-inspection/5517bc75-6057-4dd7-94bd-bb6b57ae07b1.JPG.437x300.jpg"><div class="btn-follow follow" data-hid="101101071443"><span class="star"></span><span class="follow-text">关注</span></div><div class="leftArrow"><span></span></div><div class="rightArrow"><span></span></div><div class="price"><span>900</span>万</div></a><a class="title" href="http://bj.lianjia.com/ershoufang/101101071443.html" target="_blank" data-bl="list" data-log_index="2" data-el="ershoufang">东北两居，整个国瑞城仅有14套，有钥匙随时看房。</a><div class="info">崇文门<span>/</span>2室2厅<span>/</span>91.13平米<span>/</span>东北<span>/</span>简装</div><div class="tag"><span class="subway">距离5号线磁器口站648米</span><span class="taxfree">房本满五年</span><span class="haskey">随时看房</span></div></div><div class="item" data-houseid="101101116202"><a class="img" href="http://bj.lianjia.com/ershoufang/101101116202.html" target="_blank" data-bl="list" data-log_index="3" data-el="ershoufang"><img class="lj-lazy" src="http://s1.ljcdn.com/feroot/pc/asset/img/blank.gif?_v=20170209175958" data-original="http://image1.ljcdn.com/110000-inspection/c04c8ca4-1f26-4365-b6c4-2abce6d44f16.jpg.437x300.jpg"><div class="btn-follow follow" data-hid="101101116202"><span class="star"></span><span class="follow-text">关注</span></div><div class="leftArrow"><span></span></div><div class="rightArrow"><span></span></div><div class="price"><span>700</span>万</div></a><a class="title" href="http://bj.lianjia.com/ershoufang/101101116202.html" target="_blank" data-bl="list" data-log_index="3" data-el="ershoufang">和平新城一期 1室0厅 700万</a><div class="info">和平里<span>/</span>1室0厅<span>/</span>63.29平米<span>/</span>东<span>/</span>精装<span>/</span>有电梯</div><div class="tag"><span class="subway">距离2号线雍和宫站738米</span><span class="taxfree">房本满五年</span><span class="haskey">随时看房</span></div></div><div class="item" data-houseid="101100238931"><a class="img" href="http://bj.lianjia.com/ershoufang/101100238931.html" target="_blank" data-bl="list" data-log_index="4" data-el="ershoufang"><img class="lj-lazy" src="http://s1.ljcdn.com/feroot/pc/asset/img/blank.gif?_v=20170209175958" data-original="http://image1.ljcdn.com/110000-inspection/e433fe03-47f9-49f5-a79e-c6783e547165.jpg.437x300.jpg"><div class="btn-follow follow" data-hid="101100238931"><span class="star"></span><span class="follow-text">关注</span></div><div class="leftArrow"><span></span></div><div class="rightArrow"><span></span></div><div class="price"><span>1830</span>万</div></a><a class="title" href="http://bj.lianjia.com/ershoufang/101100238931.html" target="_blank" data-bl="list" data-log_index="4" data-el="ershoufang">禾风相府 南北通透 三居室 前后花园 人车分流</a><div class="info">金宝街<span>/</span>3室2厅<span>/</span>163.83平米<span>/</span>南 北<span>/</span>精装<span>/</span>有电梯</div><div class="tag"><span class="subway">距离5号线东四站329米</span><span class="taxfree">房本满五年</span><span class="haskey">随时看房</span></div></div><div class="item" data-houseid="101092367784"><a class="img" href="http://bj.lianjia.com/ershoufang/101092367784.html" target="_blank" data-bl="list" data-log_index="5" data-el="ershoufang"><img class="lj-lazy" src="http://s1.ljcdn.com/feroot/pc/asset/img/blank.gif?_v=20170209175958" data-original="http://image1.ljcdn.com/110000-inspection/bc8c27e1-18ee-46d0-911c-a19f45c432aa.jpg.437x300.jpg"><div class="btn-follow follow" data-hid="101092367784"><span class="star"></span><span class="follow-text">关注</span></div><div class="leftArrow"><span></span></div><div class="rightArrow"><span></span></div><div class="price"><span>1190</span>万</div></a><a class="title" href="http://bj.lianjia.com/ershoufang/101092367784.html" target="_blank" data-bl="list" data-log_index="5" data-el="ershoufang">枣苑商品房西北三居，满五年低税费，崇文小学</a><div class="info">东花市<span>/</span>3室2厅<span>/</span>135.72平米<span>/</span>西 北<span>/</span>简装<span>/</span>有电梯</div><div class="tag"><span class="subway">距离7号线广渠门内站431米</span><span class="taxfree">房本满五年</span><span class="haskey">随时看房</span></div></div><div class="item" data-houseid="101100902914"><a class="img" href="http://bj.lianjia.com/ershoufang/101100902914.html" target="_blank" data-bl="list" data-log_index="6" data-el="ershoufang"><img class="lj-lazy" src="http://s1.ljcdn.com/feroot/pc/asset/img/blank.gif?_v=20170209175958" data-original="http://image1.ljcdn.com/110000-inspection/e812202b-3eca-4c83-afe2-df84957b652a.JPG.437x300.jpg"><div class="btn-follow follow" data-hid="101100902914"><span class="star"></span><span class="follow-text">关注</span></div><div class="leftArrow"><span></span></div><div class="rightArrow"><span></span></div><div class="price"><span>950</span>万</div></a><a class="title" href="http://bj.lianjia.com/ershoufang/101100902914.html" target="_blank" data-bl="list" data-log_index="6" data-el="ershoufang">金鱼池南北通透大复式 正对花园、视野好 诚心出售</a><div class="info">天坛<span>/</span>4室2厅<span>/</span>135.91平米<span>/</span>南 北<span>/</span>简装</div><div class="tag"><span class="subway">距离7号线桥湾站227米</span><span class="taxfree">房本满五年</span><span class="haskey">随时看房</span></div></div><div class="item" data-houseid="101101043670"><a class="img" href="http://bj.lianjia.com/ershoufang/101101043670.html" target="_blank" data-bl="list" data-log_index="7" data-el="ershoufang"><img class="lj-lazy" src="http://s1.ljcdn.com/feroot/pc/asset/img/blank.gif?_v=20170209175958" data-original="http://image1.ljcdn.com/110000-inspection/fcc5cab9-edad-432a-a827-e041885f541b.jpg.437x300.jpg"><div class="btn-follow follow" data-hid="101101043670"><span class="star"></span><span class="follow-text">关注</span></div><div class="leftArrow"><span></span></div><div class="rightArrow"><span></span></div><div class="price"><span>980</span>万</div></a><a class="title" href="http://bj.lianjia.com/ershoufang/101101043670.html" target="_blank" data-bl="list" data-log_index="7" data-el="ershoufang">户型方方正正 满五年就一套 视野开阔直观汇文中学</a><div class="info">广渠门<span>/</span>2室2厅<span>/</span>88.63平米<span>/</span>西北<span>/</span>精装<span>/</span>有电梯</div><div class="tag"><span class="subway">距离7号线广渠门内站307米</span><span class="taxfree">房本满五年</span><span class="haskey">随时看房</span></div></div><div class="item" data-houseid="101101076350"><a class="img" href="http://bj.lianjia.com/ershoufang/101101076350.html" target="_blank" data-bl="list" data-log_index="8" data-el="ershoufang"><img class="lj-lazy" src="http://s1.ljcdn.com/feroot/pc/asset/img/blank.gif?_v=20170209175958" data-original="http://image1.ljcdn.com/110000-inspection/b19bab4b-17f3-46bf-b067-f2df3df74b27.jpg.437x300.jpg"><div class="btn-follow follow" data-hid="101101076350"><span class="star"></span><span class="follow-text">关注</span></div><div class="leftArrow"><span></span></div><div class="rightArrow"><span></span></div><div class="price"><span>565</span>万</div></a><a class="title" href="http://bj.lianjia.com/ershoufang/101101076350.html" target="_blank" data-bl="list" data-log_index="8" data-el="ershoufang">广渠门内大街 3室1厅 565万</a><div class="info">广渠门<span>/</span>3室1厅<span>/</span>70平米<span>/</span>东 西 北<span>/</span>简装</div><div class="tag"><span class="subway">距离7号线广渠门内站567米</span><span class="taxfree">房本满五年</span><span class="haskey">随时看房</span></div></div><div class="item" data-houseid="101101140022"><a class="img" href="http://bj.lianjia.com/ershoufang/101101140022.html" target="_blank" data-bl="list" data-log_index="9" data-el="ershoufang"><img class="lj-lazy" src="http://s1.ljcdn.com/feroot/pc/asset/img/blank.gif?_v=20170209175958" data-original="http://image1.ljcdn.com/110000-inspection/d8c62de8-8c30-44e2-93e1-1f896e10fc3b.jpg.437x300.jpg"><div class="btn-follow follow" data-hid="101101140022"><span class="star"></span><span class="follow-text">关注</span></div><div class="leftArrow"><span></span></div><div class="rightArrow"><span></span></div><div class="price"><span>950</span>万</div></a><a class="title" href="http://bj.lianjia.com/ershoufang/101101140022.html" target="_blank" data-bl="list" data-log_index="9" data-el="ershoufang">东直门内北小街 景山划片 采光好 视野佳 无遮挡 三居</a><div class="info">东直门<span>/</span>3室2厅<span>/</span>90.13平米<span>/</span>东 西<span>/</span>精装</div><div class="tag"><span class="subway">距离2号线东直门站722米</span><span class="taxfree">房本满五年</span><span class="haskey">随时看房</span></div></div><div class="item" data-houseid="101101122341"><a class="img" href="http://bj.lianjia.com/ershoufang/101101122341.html" target="_blank" data-bl="list" data-log_index="10" data-el="ershoufang"><img class="lj-lazy" src="http://s1.ljcdn.com/feroot/pc/asset/img/blank.gif?_v=20170209175958" data-original="http://image1.ljcdn.com/110000-inspection/f9efdfc9-1cd8-45cf-bde8-14dd0e11f312.JPG.437x300.jpg"><div class="btn-follow follow" data-hid="101101122341"><span class="star"></span><span class="follow-text">关注</span></div><div class="leftArrow"><span></span></div><div class="rightArrow"><span></span></div><div class="price"><span>650</span>万</div></a><a class="title" href="http://bj.lianjia.com/ershoufang/101101122341.html" target="_blank" data-bl="list" data-log_index="10" data-el="ershoufang">和平里三区 2室1厅 650万</a><div class="info">和平里<span>/</span>2室1厅<span>/</span>57.02平米<span>/</span>南<span>/</span>简装</div><div class="tag"><span class="subway">距离5号线和平里北街站281米</span><span class="taxfree">房本满五年</span></div></div><div class="item" data-houseid="101100983066"><a class="img" href="http://bj.lianjia.com/ershoufang/101100983066.html" target="_blank" data-bl="list" data-log_index="11" data-el="ershoufang"><img class="lj-lazy" src="http://s1.ljcdn.com/feroot/pc/asset/img/blank.gif?_v=20170209175958" data-original="http://image1.ljcdn.com/110000-inspection/1ec27325-9cf2-4750-b8e2-1b2f4674f306.jpg.437x300.jpg"><div class="btn-follow follow" data-hid="101100983066"><span class="star"></span><span class="follow-text">关注</span></div><div class="leftArrow"><span></span></div><div class="rightArrow"><span></span></div><div class="price"><span>910</span>万</div></a><a class="title" href="http://bj.lianjia.com/ershoufang/101100983066.html" target="_blank" data-bl="list" data-log_index="11" data-el="ershoufang">小羊宜宾胡同 4室1厅 910万</a><div class="info">建国门内<span>/</span>4室1厅<span>/</span>93.81平米<span>/</span>南 北<span>/</span>简装</div><div class="tag"><span class="subway">距离1号线建国门站516米</span><span class="taxfree">房本满五年</span><span class="haskey">随时看房</span></div></div><div class="item" data-houseid="101100882193"><a class="img" href="http://bj.lianjia.com/ershoufang/101100882193.html" target="_blank" data-bl="list" data-log_index="12" data-el="ershoufang"><img class="lj-lazy" src="http://s1.ljcdn.com/feroot/pc/asset/img/blank.gif?_v=20170209175958" data-original="http://image1.ljcdn.com/110000-inspection/fd616ad5-1378-49af-abb7-602a8c805f99.jpg.437x300.jpg"><div class="btn-follow follow" data-hid="101100882193"><span class="star"></span><span class="follow-text">关注</span></div><div class="leftArrow"><span></span></div><div class="rightArrow"><span></span></div><div class="price"><span>730</span>万</div></a><a class="title" href="http://bj.lianjia.com/ershoufang/101100882193.html" target="_blank" data-bl="list" data-log_index="12" data-el="ershoufang">把角全凸三居室 双卧室朝南 户型方正无浪费 有储藏间</a><div class="info">广渠门<span>/</span>3室1厅<span>/</span>80.34平米<span>/</span>西南<span>/</span>简装<span>/</span>有电梯</div><div class="tag"><span class="subway">距离7号线广渠门内站304米</span><span class="taxfree">房本满五年</span><span class="haskey">随时看房</span></div></div><div class="item" data-houseid="101100757100"><a class="img" href="http://bj.lianjia.com/ershoufang/101100757100.html" target="_blank" data-bl="list" data-log_index="13" data-el="ershoufang"><img class="lj-lazy" src="http://s1.ljcdn.com/feroot/pc/asset/img/blank.gif?_v=20170209175958" data-original="http://image1.ljcdn.com/110000-inspection/3ccedcd5-305c-446a-b86d-665905d0f1f4.jpg.437x300.jpg"><div class="btn-follow follow" data-hid="101100757100"><span class="star"></span><span class="follow-text">关注</span></div><div class="leftArrow"><span></span></div><div class="rightArrow"><span></span></div><div class="price"><span>518</span>万</div></a><a class="title" href="http://bj.lianjia.com/ershoufang/101100757100.html" target="_blank" data-bl="list" data-log_index="13" data-el="ershoufang">东城区 09年新小区 正规两居室 业主诚心出售</a><div class="info">永定门<span>/</span>2室1厅<span>/</span>78.79平米<span>/</span>东<span>/</span>简装<span>/</span>有电梯</div><div class="tag"><span class="subway">距离14号线(东段)永定门外站660米</span><span class="taxfree">房本满五年</span><span class="haskey">随时看房</span></div></div><div class="item" data-houseid="101101064523"><a class="img" href="http://bj.lianjia.com/ershoufang/101101064523.html" target="_blank" data-bl="list" data-log_index="14" data-el="ershoufang"><img class="lj-lazy" src="http://s1.ljcdn.com/feroot/pc/asset/img/blank.gif?_v=20170209175958" data-original="http://image1.ljcdn.com/110000-inspection/822fd21e-8ea9-4331-97e7-9877c9cac0e8.jpg.437x300.jpg"><div class="btn-follow follow" data-hid="101101064523"><span class="star"></span><span class="follow-text">关注</span></div><div class="leftArrow"><span></span></div><div class="rightArrow"><span></span></div><div class="price"><span>1220</span>万</div></a><a class="title" href="http://bj.lianjia.com/ershoufang/101101064523.html" target="_blank" data-bl="list" data-log_index="14" data-el="ershoufang">民安小区东直门内北小街 4室1厅 1220万</a><div class="info">东直门<span>/</span>4室1厅<span>/</span>118.46平米<span>/</span>东 西 北<span>/</span>其他<span>/</span>有电梯</div><div class="tag"><span class="subway">距离2号线东直门站551米</span><span class="taxfree">房本满五年</span><span class="haskey">随时看房</span></div></div><div class="item" data-houseid="101100764208"><a class="img" href="http://bj.lianjia.com/ershoufang/101100764208.html" target="_blank" data-bl="list" data-log_index="15" data-el="ershoufang"><img class="lj-lazy" src="http://s1.ljcdn.com/feroot/pc/asset/img/blank.gif?_v=20170209175958" data-original="http://image1.ljcdn.com/110000-inspection/33b89eb5-a1c0-4684-aa0e-ebefd50676224.jpg.437x300.jpg"><div class="btn-follow follow" data-hid="101100764208"><span class="star"></span><span class="follow-text">关注</span></div><div class="leftArrow"><span></span></div><div class="rightArrow"><span></span></div><div class="price"><span>400</span>万</div></a><a class="title" href="http://bj.lianjia.com/ershoufang/101100764208.html" target="_blank" data-bl="list" data-log_index="15" data-el="ershoufang">西革新里110号院 2室1厅 400万</a><div class="info">西罗园<span>/</span>2室1厅<span>/</span>61.4平米<span>/</span>南 北<span>/</span>简装</div><div class="tag"><span class="subway">距离14号线(东段)永定门外站893米</span><span class="taxfree">房本满五年</span><span class="haskey">随时看房</span></div></div><div class="item" data-houseid="101100873120"><a class="img" href="http://bj.lianjia.com/ershoufang/101100873120.html" target="_blank" data-bl="list" data-log_index="16" data-el="ershoufang"><img class="lj-lazy" src="http://s1.ljcdn.com/feroot/pc/asset/img/blank.gif?_v=20170209175958" data-original="http://image1.ljcdn.com/110000-inspection/38d1afa8-de8a-4ce5-9d6b-ef9d609aadc3.jpg.437x300.jpg"><div class="btn-follow follow" data-hid="101100873120"><span class="star"></span><span class="follow-text">关注</span></div><div class="leftArrow"><span></span></div><div class="rightArrow"><span></span></div><div class="price"><span>650</span>万</div></a><a class="title" href="http://bj.lianjia.com/ershoufang/101100873120.html" target="_blank" data-bl="list" data-log_index="16" data-el="ershoufang">协和医院 灯市口近 166中学 带电梯</a><div class="info">建国门内<span>/</span>2室1厅<span>/</span>61.77平米<span>/</span>南<span>/</span>简装<span>/</span>有电梯</div><div class="tag"><span class="subway">距离1号线建国门站516米</span><span class="taxfree">房本满五年</span><span class="haskey">随时看房</span></div></div><div class="item" data-houseid="101100900395"><a class="img" href="http://bj.lianjia.com/ershoufang/101100900395.html" target="_blank" data-bl="list" data-log_index="17" data-el="ershoufang"><img class="lj-lazy" src="http://s1.ljcdn.com/feroot/pc/asset/img/blank.gif?_v=20170209175958" data-original="http://image1.ljcdn.com/110000-inspection/2726c527-7f33-4906-a97e-8ba085430b52.jpg.437x300.jpg"><div class="btn-follow follow" data-hid="101100900395"><span class="star"></span><span class="follow-text">关注</span></div><div class="leftArrow"><span></span></div><div class="rightArrow"><span></span></div><div class="price"><span>1550</span>万</div></a><a class="title" href="http://bj.lianjia.com/ershoufang/101100900395.html" target="_blank" data-bl="list" data-log_index="17" data-el="ershoufang">满五年住宅 没有个税 可改三居室</a><div class="info">工体<span>/</span>2室1厅<span>/</span>140.53平米<span>/</span>东 西<span>/</span>简装<span>/</span>有电梯</div><div class="tag"><span class="subway">距离2号线东直门站592米</span><span class="taxfree">房本满五年</span><span class="haskey">随时看房</span></div></div><div class="item" data-houseid="101100983114"><a class="img" href="http://bj.lianjia.com/ershoufang/101100983114.html" target="_blank" data-bl="list" data-log_index="18" data-el="ershoufang"><img class="lj-lazy" src="http://s1.ljcdn.com/feroot/pc/asset/img/blank.gif?_v=20170209175958" data-original="http://image1.ljcdn.com/110000-inspection/8f67d98e-3a11-4a12-a5cc-d0e3057525df.jpg.437x300.jpg"><div class="btn-follow follow" data-hid="101100983114"><span class="star"></span><span class="follow-text">关注</span></div><div class="leftArrow"><span></span></div><div class="rightArrow"><span></span></div><div class="price"><span>560</span>万</div></a><a class="title" href="http://bj.lianjia.com/ershoufang/101100983114.html" target="_blank" data-bl="list" data-log_index="18" data-el="ershoufang">朝阳门内大街 2室1厅 560万</a><div class="info">朝阳门内<span>/</span>2室1厅<span>/</span>69.33平米<span>/</span>南<span>/</span>精装</div><div class="tag"><span class="subway">距离2号线朝阳门站275米</span><span class="taxfree">房本满五年</span><span class="haskey">随时看房</span></div></div><div class="item" data-houseid="101100592460"><a class="img" href="http://bj.lianjia.com/ershoufang/101100592460.html" target="_blank" data-bl="list" data-log_index="19" data-el="ershoufang"><img class="lj-lazy" src="http://s1.ljcdn.com/feroot/pc/asset/img/blank.gif?_v=20170209175958" data-original="http://image1.ljcdn.com/110000-inspection/f200b6e5-f691-4c0f-9c33-8f1650165e8e.jpg.437x300.jpg"><div class="btn-follow follow" data-hid="101100592460"><span class="star"></span><span class="follow-text">关注</span></div><div class="leftArrow"><span></span></div><div class="rightArrow"><span></span></div><div class="price"><span>939</span>万</div></a><a class="title" href="http://bj.lianjia.com/ershoufang/101100592460.html" target="_blank" data-bl="list" data-log_index="19" data-el="ershoufang">天天家园 2室1厅 939万</a><div class="info">永定门<span>/</span>2室1厅<span>/</span>125.02平米<span>/</span>南 北<span>/</span>精装<span>/</span>有电梯</div><div class="tag"><span class="subway">距离14号线(东段)永定门外站503米</span><span class="taxfree">房本满五年</span><span class="haskey">随时看房</span></div></div><div class="item" data-houseid="101100597925"><a class="img" href="http://bj.lianjia.com/ershoufang/101100597925.html" target="_blank" data-bl="list" data-log_index="20" data-el="ershoufang"><img class="lj-lazy" src="http://s1.ljcdn.com/feroot/pc/asset/img/blank.gif?_v=20170209175958" data-original="http://image1.ljcdn.com/110000-inspection/b7780ffb-4589-4e8b-b202-d8ecbaac30e4.jpg.437x300.jpg"><div class="btn-follow follow" data-hid="101100597925"><span class="star"></span><span class="follow-text">关注</span></div><div class="leftArrow"><span></span></div><div class="rightArrow"><span></span></div><div class="price"><span>980</span>万</div></a><a class="title" href="http://bj.lianjia.com/ershoufang/101100597925.html" target="_blank" data-bl="list" data-log_index="20" data-el="ershoufang">都市馨园三居室    南北通透    商品房  前后不临街</a><div class="info">崇文门<span>/</span>3室2厅<span>/</span>130.7平米<span>/</span>南 北<span>/</span>精装<span>/</span>无电梯</div><div class="tag"><span class="subway">距离7号线桥湾站390米</span><span class="taxfree">房本满五年</span><span class="haskey">随时看房</span></div></div><div class="item" data-houseid="101101070135"><a class="img" href="http://bj.lianjia.com/ershoufang/101101070135.html" target="_blank" data-bl="list" data-log_index="21" data-el="ershoufang"><img class="lj-lazy" src="http://s1.ljcdn.com/feroot/pc/asset/img/blank.gif?_v=20170209175958" data-original="http://image1.ljcdn.com/110000-inspection/a073fe44-6f6a-4905-a66e-1445b4f0befb7.jpg.437x300.jpg"><div class="btn-follow follow" data-hid="101101070135"><span class="star"></span><span class="follow-text">关注</span></div><div class="leftArrow"><span></span></div><div class="rightArrow"><span></span></div><div class="price"><span>850</span>万</div></a><a class="title" href="http://bj.lianjia.com/ershoufang/101101070135.html" target="_blank" data-bl="list" data-log_index="21" data-el="ershoufang">民安小区东直门北中街 2室1厅 850万</a><div class="info">东直门<span>/</span>2室1厅<span>/</span>71.49平米<span>/</span>南<span>/</span>简装</div><div class="tag"><span class="subway">距离2号线东直门站296米</span><span class="taxfree">房本满五年</span></div></div><div class="item" data-houseid="101101081361"><a class="img" href="http://bj.lianjia.com/ershoufang/101101081361.html" target="_blank" data-bl="list" data-log_index="22" data-el="ershoufang"><img class="lj-lazy" src="http://s1.ljcdn.com/feroot/pc/asset/img/blank.gif?_v=20170209175958" data-original="http://image1.ljcdn.com/110000-inspection/553f3a6f-3912-4a1c-80a5-65bd6d6bd46e.jpg.437x300.jpg"><div class="btn-follow follow" data-hid="101101081361"><span class="star"></span><span class="follow-text">关注</span></div><div class="leftArrow"><span></span></div><div class="rightArrow"><span></span></div><div class="price"><span>750</span>万</div></a><a class="title" href="http://bj.lianjia.com/ershoufang/101101081361.html" target="_blank" data-bl="list" data-log_index="22" data-el="ershoufang">九三学园 精装全明三居 南北通透楼龄新 满五税费少</a><div class="info">安贞<span>/</span>3室1厅<span>/</span>72.39平米<span>/</span>东南 北<span>/</span>精装<span>/</span>无电梯</div><div class="tag"><span class="subway">距离5号线和平西桥站654米</span><span class="taxfree">房本满五年</span></div></div><div class="item" data-houseid="101101111400"><a class="img" href="http://bj.lianjia.com/ershoufang/101101111400.html" target="_blank" data-bl="list" data-log_index="23" data-el="ershoufang"><img class="lj-lazy" src="http://s1.ljcdn.com/feroot/pc/asset/img/blank.gif?_v=20170209175958" data-original="http://image1.ljcdn.com/110000-inspection/f400e8e3-9cc8-487c-9e13-af15503cb93c.JPG.437x300.jpg"><div class="btn-follow follow" data-hid="101101111400"><span class="star"></span><span class="follow-text">关注</span></div><div class="leftArrow"><span></span></div><div class="rightArrow"><span></span></div><div class="price"><span>850</span>万</div></a><a class="title" href="http://bj.lianjia.com/ershoufang/101101111400.html" target="_blank" data-bl="list" data-log_index="23" data-el="ershoufang">和平里四小，楼龄新，配套成熟，交通便利。</a><div class="info">和平里<span>/</span>2室1厅<span>/</span>83.08平米<span>/</span>西北<span>/</span>简装<span>/</span>有电梯</div><div class="tag"><span class="subway">距离5号线和平里北街站691米</span><span class="taxfree">房本满五年</span></div></div><div class="item" data-houseid="101101118655"><a class="img" href="http://bj.lianjia.com/ershoufang/101101118655.html" target="_blank" data-bl="list" data-log_index="24" data-el="ershoufang"><img class="lj-lazy" src="http://s1.ljcdn.com/feroot/pc/asset/img/blank.gif?_v=20170209175958" data-original="http://image1.ljcdn.com/110000-inspection/438dcb22-19e3-4c99-b464-0a3a790667bd.JPG.437x300.jpg"><div class="btn-follow follow" data-hid="101101118655"><span class="star"></span><span class="follow-text">关注</span></div><div class="leftArrow"><span></span></div><div class="rightArrow"><span></span></div><div class="price"><span>850</span>万</div></a><a class="title" href="http://bj.lianjia.com/ershoufang/101101118655.html" target="_blank" data-bl="list" data-log_index="24" data-el="ershoufang">新景家园西区 2室1厅 850万</a><div class="info">崇文门<span>/</span>2室1厅<span>/</span>76.69平米<span>/</span>南 北<span>/</span>精装</div><div class="tag"><span class="subway">距离5号线磁器口站284米</span><span class="taxfree">房本满五年</span></div></div><div class="item" data-houseid="101100840103"><a class="img" href="http://bj.lianjia.com/ershoufang/101100840103.html" target="_blank" data-bl="list" data-log_index="25" data-el="ershoufang"><img class="lj-lazy" src="http://s1.ljcdn.com/feroot/pc/asset/img/blank.gif?_v=20170209175958" data-original="http://image1.ljcdn.com/110000-inspection/c5ed514c-be5f-4afc-a93a-d0a4f78b28de.jpg.437x300.jpg"><div class="btn-follow follow" data-hid="101100840103"><span class="star"></span><span class="follow-text">关注</span></div><div class="leftArrow"><span></span></div><div class="rightArrow"><span></span></div><div class="price"><span>1100</span>万</div></a><a class="title" href="http://bj.lianjia.com/ershoufang/101100840103.html" target="_blank" data-bl="list" data-log_index="25" data-el="ershoufang">花市枣苑二期两居两卫，满五年无个税，有钥匙</a><div class="info">东花市<span>/</span>2室1厅<span>/</span>121.87平米<span>/</span>西北<span>/</span>简装<span>/</span>有电梯</div><div class="tag"><span class="subway">距离7号线广渠门内站235米</span><span class="taxfree">房本满五年</span><span class="haskey">随时看房</span></div></div><div class="item" data-houseid="101101083814"><a class="img" href="http://bj.lianjia.com/ershoufang/101101083814.html" target="_blank" data-bl="list" data-log_index="26" data-el="ershoufang"><img class="lj-lazy" src="http://s1.ljcdn.com/feroot/pc/asset/img/blank.gif?_v=20170209175958" data-original="http://image1.ljcdn.com/110000-inspection/6b58e3e1-ffec-435c-846e-ba0bc0a5975c.jpg.437x300.jpg"><div class="btn-follow follow" data-hid="101101083814"><span class="star"></span><span class="follow-text">关注</span></div><div class="leftArrow"><span></span></div><div class="rightArrow"><span></span></div><div class="price"><span>550</span>万</div></a><a class="title" href="http://bj.lianjia.com/ershoufang/101101083814.html" target="_blank" data-bl="list" data-log_index="26" data-el="ershoufang">建国门内大街 1室1厅 550万</a><div class="info">建国门外<span>/</span>1室1厅<span>/</span>48.65平米<span>/</span>西<span>/</span>简装<span>/</span>无电梯</div><div class="tag"><span class="subway">距离1号线建国门站252米</span><span class="taxfree">房本满五年</span><span class="haskey">随时看房</span></div></div><div class="item" data-houseid="101100952045"><a class="img" href="http://bj.lianjia.com/ershoufang/101100952045.html" target="_blank" data-bl="list" data-log_index="27" data-el="ershoufang"><img class="lj-lazy" src="http://s1.ljcdn.com/feroot/pc/asset/img/blank.gif?_v=20170209175958" data-original="http://image1.ljcdn.com/110000-inspection/45487bca-8a78-4751-ad58-e7b116547f021.jpg.437x300.jpg"><div class="btn-follow follow" data-hid="101100952045"><span class="star"></span><span class="follow-text">关注</span></div><div class="leftArrow"><span></span></div><div class="rightArrow"><span></span></div><div class="price"><span>1100</span>万</div></a><a class="title" href="http://bj.lianjia.com/ershoufang/101100952045.html" target="_blank" data-bl="list" data-log_index="27" data-el="ershoufang">西向 两居室 视野好  商品房 高层</a><div class="info">广渠门<span>/</span>2室1厅<span>/</span>130平米<span>/</span>西<span>/</span>简装<span>/</span>有电梯</div><div class="tag"><span class="subway">距离7号线广渠门内站566米</span><span class="taxfree">房本满五年</span><span class="haskey">随时看房</span></div></div><div class="item" data-houseid="101101034394"><a class="img" href="http://bj.lianjia.com/ershoufang/101101034394.html" target="_blank" data-bl="list" data-log_index="28" data-el="ershoufang"><img class="lj-lazy" src="http://s1.ljcdn.com/feroot/pc/asset/img/blank.gif?_v=20170209175958" data-original="http://image1.ljcdn.com/110000-inspection/38f5b22a-f39c-4d0d-b788-5518389dbc6c.jpg.437x300.jpg"><div class="btn-follow follow" data-hid="101101034394"><span class="star"></span><span class="follow-text">关注</span></div><div class="leftArrow"><span></span></div><div class="rightArrow"><span></span></div><div class="price"><span>820</span>万</div></a><a class="title" href="http://bj.lianjia.com/ershoufang/101101034394.html" target="_blank" data-bl="list" data-log_index="28" data-el="ershoufang">六铺炕 3室1厅 820万</a><div class="info">六铺炕<span>/</span>3室1厅<span>/</span>72.84平米<span>/</span>南 北<span>/</span>简装</div><div class="tag"><span class="subway">距离8号线安德里北街站58米</span><span class="taxfree">房本满五年</span></div></div><div class="item" data-houseid="101101023883"><a class="img" href="http://bj.lianjia.com/ershoufang/101101023883.html" target="_blank" data-bl="list" data-log_index="29" data-el="ershoufang"><img class="lj-lazy" src="http://s1.ljcdn.com/feroot/pc/asset/img/blank.gif?_v=20170209175958" data-original="http://image1.ljcdn.com/110000-inspection/0a606de2-a8fe-4429-a2ec-cdbbab4fd78b.jpg.437x300.jpg"><div class="btn-follow follow" data-hid="101101023883"><span class="star"></span><span class="follow-text">关注</span></div><div class="leftArrow"><span></span></div><div class="rightArrow"><span></span></div><div class="price"><span>860</span>万</div></a><a class="title" href="http://bj.lianjia.com/ershoufang/101101023883.html" target="_blank" data-bl="list" data-log_index="29" data-el="ershoufang">东直门内北小街16号院 东西大两居   有电梯</a><div class="info">东直门<span>/</span>2室2厅<span>/</span>89.74平米<span>/</span>东 西<span>/</span>简装</div><div class="tag"><span class="subway">距离2号线雍和宫站739米</span><span class="taxfree">房本满五年</span></div></div><div class="item" data-houseid="101101015122"><a class="img" href="http://bj.lianjia.com/ershoufang/101101015122.html" target="_blank" data-bl="list" data-log_index="30" data-el="ershoufang"><img class="lj-lazy" src="http://s1.ljcdn.com/feroot/pc/asset/img/blank.gif?_v=20170209175958" data-original="http://image1.ljcdn.com/110000-inspection/e3651172-42b7-4b72-8851-7969128aa9ef.jpg.437x300.jpg"><div class="btn-follow follow" data-hid="101101015122"><span class="star"></span><span class="follow-text">关注</span></div><div class="leftArrow"><span></span></div><div class="rightArrow"><span></span></div><div class="price"><span>850</span>万</div></a><a class="title" href="http://bj.lianjia.com/ershoufang/101101015122.html" target="_blank" data-bl="list" data-log_index="30" data-el="ershoufang">天娇园商品房 朝东2居 对小区花园 拎包入住</a><div class="info">东花市<span>/</span>2室2厅<span>/</span>91.48平米<span>/</span>东<span>/</span>简装<span>/</span>有电梯</div><div class="tag"><span class="subway">距离7号线广渠门内站552米</span><span class="taxfree">房本满五年</span></div></div></div><!-- 无搜索结果 --><div id="noResultPush"></div><div class="contentBottom clear" ><div class="crumbs fl"><a href="/">链家网北京站</a><span >&nbsp;&gt;&nbsp;</span><a href="/ershoufang/">北京二手房</a><span >&nbsp;&gt;&nbsp;</span><h1><a href="/ershoufang/dongcheng/">东城二手房</a></h1></div><div class="page-box fr"><div class="page-box house-lst-page-box" comp-module='page' page-url="/ershoufang/dongcheng/pg{page}/"page-data='{"totalPage":40,"curPage":1}'></div>
+
+
+</div></div><div style="display:none;"><p>北京二手房信息</p><p>链家网北京站东城二手房频道提供真实、时时的东城二手房房源信息，东城二手房房源目前为1190套，全>部由线下经纪人确认核实上传，信息可靠，东城二手房用户可以在链家网东城二手房频道和东城二手房频道移动端最快速、最及时的找到自己想要的真>实、放心房源。链家网东城二手房平台，真房源，如你所见！</p><p> 核心卖点:2017年3月28号满5年，业主在京无其它房产 东向正对.小区花园 户型介绍:房子户型好，很方正，没什么浪费面积，有燃气，厨房和卫生间都是独立的，很适合年轻人居住。东向采光好，整面窗户都是落地窗。 小区介绍:小区是2009年建成的商品房社区，一共11个单元。市政集中供暖，30元/平米。东光物业公司，物业费2.5元/平米。24小时安保服务，每个单元都有保洁大姐打扫。 周边配套:距离北机农贸市场约500米，距离通州万达广场约1300米，距离物美大卖场约600米，距离餐饮一条街约200米，生活配套全。此房与永顺镇小学一路之隔，已经和史家小学联合办校，目前正在招标中。 税费解析:房子首套仅有1个点个契税，减免百分之20差额的个税.二套3个点。</p></div></div><!-- 右侧sidebar --><div class="rightLayout"><div class="rightContent"><div class="map"><div class="pic"></div><button id="btn-map">试试地图找房</button></div><div class="price" id='priceSideBarContainer' log-mod="recommand_price"></div><div class="suggestAgent" id='suggestAgentContainer' log-mod="ershoufang_list_recommend-agent"></div><div class="suggestHouse" id="suggestHouseContainer" log-mod="recommand_house"></div><div class="suggestCommunity" id="suggestCommunityContainer" log-mod="ershoufang_list_recommend-community"></div><div class="wenda zixun" id="pushZixunContainer" log-mod="recommand_zixun"></div><div class="wenda SCROLLVIEWLOG" id="pushWendaContainer" log-mod="recommand_wenda"></div></div></div></div><div id="pushCommunity" class="pushCommunity" log-mod="ershoufang_list_recommend-community"></div><div id="newHousePush" class="newHousePush"></div><div class="saveMegmask"></div><div class="saveok"><div class="fl"></div><div class="fr"><span>已成功保存搜索条件！</span><p>您可在搜索框右侧下拉列表中快速使用该条件。该条件有新房源出现时，我们将会用站内提醒的方式来通知您</p><label class="close">确定</label></div></div><div class="saveerror"><div class="fl"></div><div class="fr"><span>你的搜索条件已达到上限！</span><p>您可在搜索框右侧下拉列表中快速使用该条件。该条件有新房源出现时，我们将会用站内提醒的方式来通知您。</p><a href="http://user.lianjia.com/site/searchlist/">个人中心</a><label  class="close">取消</label></div></div><div class="footer"><div class="wrapper"><div class="f-title"><div class="fl"><ul><li><a href="http://www.lianjia.com/zhuanti/home/" target="_blank">了解链家网</a></li><li><a href="http://bj.lianjia.com/about/aboutlianjia/" rel="nofollow" target="_blank">关于链家</a></li><li><a href="http://bj.lianjia.com/about/contactus/" rel="nofollow" target="_blank">联系我们</a></li><li><a href="http://join.lianjia.com/" rel="nofollow" target="_blank">加入我们</a></li><li><a href="http://www.lianjia.com/privacy/" rel="nofollow" target="_blank">隐私声明</a></li><li><a href="http://bj.lianjia.com/sitemap/" target="_blank">网站地图</a></li><li><a href="http://www.lianjia.com/notice/7.html" target="_blank">友情链接</a></li><li><a href="http://agent.lianjia.com/" rel="nofollow" target="_blank">经纪人登录</a></li></ul></div><div class="fr">官方客服 1010 9666</div></div><div class="lianjia-link-box"><div class="fl"><div class="tab"><span  class="hover">北京小区二手房</span><span >热门城市二手房</span><span >热门城市租房网</span><span >热门城市楼盘</span></div><div class="link-list"><div><dd><a target="_blank" href="http://bj.lianjia.com/ershoufang/c1111027375962/">博客园小区二手房</a><a target="_blank" href="http://bj.lianjia.com/ershoufang/c1111027382725/">政馨园二区小区二手房</a><a target="_blank" href="http://bj.lianjia.com/ershoufang/c1111027379681/">首邑上城小区二手房</a><a target="_blank" href="http://bj.lianjia.com/ershoufang/c1111027382250/">杨庄北区小区二手房</a><a target="_blank" href="http://bj.lianjia.com/ershoufang/c1111027379037/">润龙家园小区二手房</a><a target="_blank" href="http://bj.lianjia.com/ershoufang/c1111027374310/">方南家园一期小区二手房</a><a target="_blank" href="http://bj.lianjia.com/ershoufang/c1111027379362/">世嘉丽晶小区二手房</a><a target="_blank" href="http://bj.lianjia.com/ershoufang/c1111027378846/">巧克力城小区二手房</a><a target="_blank" href="http://bj.lianjia.com/ershoufang/c1111027380663/">星岛假日小区二手房</a><a target="_blank" href="http://bj.lianjia.com/ershoufang/c1111027378241/">MASTER领域小区二手房</a><a target="_blank" href="http://bj.lianjia.com/ershoufang/c1111027379181/">尚东庭小区二手房</a><a target="_blank" href="http://bj.lianjia.com/ershoufang/c1111027379287/">苏荷时代小区二手房</a><a target="_blank" href="http://bj.lianjia.com/ershoufang/c1111027382723/">重兴园小区二手房</a><a target="_blank" href="http://bj.lianjia.com/ershoufang/c1111041779576/">自主城小区二手房</a><a target="_blank" href="http://bj.lianjia.com/ershoufang/c1111027374827/">古韵新居小区二手房</a><a target="_blank" href="http://bj.lianjia.com/ershoufang/c1111027377706/">康泽园小区二手房</a><a target="_blank" href="http://bj.lianjia.com/ershoufang/c1111027379001/">润枫嘉尚小区二手房</a><a target="_blank" href="http://bj.lianjia.com/ershoufang/c1111040862975/">金色漫香林四期小区二手房</a><a target="_blank" href="http://bj.lianjia.com/ershoufang/c1111027380000/">天时名苑小区二手房</a><a target="_blank" href="http://bj.lianjia.com/ershoufang/c1111027382679/">庄维花园小区二手房</a><a target="_blank" href="http://bj.lianjia.com/ershoufang/c1111027376307/">长安6号小区二手房</a><a target="_blank" href="http://bj.lianjia.com/ershoufang/c1111027380386/">万年花城回迁小区二手房</a><a target="_blank" href="http://bj.lianjia.com/ershoufang/c1111027377493/">建欣苑四里小区二手房</a><a target="_blank" href="http://bj.lianjia.com/ershoufang/c1111027379997/">同仁园小区二手房</a><a target="_blank" href="http://bj.lianjia.com/ershoufang/c1111027378137/">流星花园二区小区二手房</a><a target="_blank" href="http://bj.lianjia.com/ershoufang/c1111027378994/">瑞都公园世家北区小区二手房</a><a target="_blank" href="http://bj.lianjia.com/ershoufang/c1111027382235/">远洋一方花语苑小区二手房</a><a target="_blank" href="http://bj.lianjia.com/ershoufang/c1111027378940/">七星园小区二手房</a><a target="_blank" href="http://bj.lianjia.com/ershoufang/c1111027373915/">大山子南里小区二手房</a><a target="_blank" href="http://bj.lianjia.com/ershoufang/c1111027378728/">蒲黄榆五巷小区二手房</a></dd></div><div><dd><a target="_blank" href="http://bj.lianjia.com/ershoufang/">北京二手房</a><a target="_blank" href="http://gz.lianjia.com/ershoufang/">广州二手房</a><a target="_blank" href="http://sz.lianjia.com/ershoufang/">深圳二手房</a><a target="_blank" href="http://tj.lianjia.com/ershoufang/">天津二手房</a><a target="_blank" href="http://cd.lianjia.com/ershoufang/">成都二手房</a><a target="_blank" href="http://nj.lianjia.com/ershoufang/">南京二手房</a><a target="_blank" href="http://hz.lianjia.com/ershoufang/">杭州二手房</a><a target="_blank" href="http://qd.lianjia.com/ershoufang/">青岛二手房</a><a target="_blank" href="http://dl.lianjia.com/ershoufang/">大连二手房</a><a target="_blank" href="http://xm.lianjia.com/ershoufang/">厦门二手房</a><a target="_blank" href="http://wh.lianjia.com/ershoufang/">武汉二手房</a><a target="_blank" href="http://cq.lianjia.com/ershoufang/">重庆二手房</a><a target="_blank" href="http://cs.lianjia.com/ershoufang/">长沙二手房</a><a target="_blank" href="http://jn.lianjia.com/ershoufang/">济南二手房</a><a target="_blank" href="http://fs.lianjia.com/ershoufang/">佛山二手房</a><a target="_blank" href="http://dg.lianjia.com/ershoufang/">东莞二手房</a><a target="_blank" href="http://yt.lianjia.com/ershoufang/">烟台二手房</a><a target="_blank" href="http://zs.lianjia.com/ershoufang/">中山二手房</a><a target="_blank" href="http://zh.lianjia.com/ershoufang/">珠海二手房</a><a target="_blank" href="http://hf.lianjia.com/ershoufang/">合肥二手房</a></dd></div><div><dd><a target="_blank" href="http://bj.lianjia.com/zufang/">北京租房</a><a target="_blank" href="http://gz.lianjia.com/zufang/">广州租房</a><a target="_blank" href="http://sz.lianjia.com/zufang/">深圳租房</a><a target="_blank" href="http://tj.lianjia.com/zufang/">天津租房</a><a target="_blank" href="http://cd.lianjia.com/zufang/">成都租房</a><a target="_blank" href="http://nj.lianjia.com/zufang/">南京租房</a><a target="_blank" href="http://hz.lianjia.com/zufang/">杭州租房</a><a target="_blank" href="http://qd.lianjia.com/zufang/">青岛租房</a><a target="_blank" href="http://dl.lianjia.com/zufang/">大连租房</a><a target="_blank" href="http://xm.lianjia.com/zufang/">厦门租房</a><a target="_blank" href="http://wh.lianjia.com/zufang/">武汉租房</a><a target="_blank" href="http://cq.lianjia.com/zufang/">重庆租房</a><a target="_blank" href="http://cs.lianjia.com/zufang/">长沙租房</a><a target="_blank" href="http://jn.lianjia.com/zufang/">济南租房</a><a target="_blank" href="http://fs.lianjia.com/zufang/">佛山租房</a><a target="_blank" href="http://dg.lianjia.com/zufang/">东莞租房</a><a target="_blank" href="http://yt.lianjia.com/zufang/">烟台租房</a><a target="_blank" href="http://zs.lianjia.com/zufang/">中山租房</a><a target="_blank" href="http://zh.lianjia.com/zufang/">珠海租房</a><a target="_blank" href="http://hf.lianjia.com/zufang/">合肥租房</a></dd></div><div><dd><a target="_blank" href="http://sh.fang.lianjia.com/">北京楼盘</a><a target="_blank" href="http://tj.fang.lianjia.com/">天津楼盘</a><a target="_blank" href="http://nj.fang.lianjia.com/">南京楼盘</a><a target="_blank" href="http://cd.fang.lianjia.com/">成都楼盘</a><a target="_blank" href="http://dl.fang.lianjia.com/">大连楼盘</a><a target="_blank" href="http://qd.fang.lianjia.com/">青岛楼盘</a><a target="_blank" href="http://hz.fang.lianjia.com/">杭州楼盘</a><a target="_blank" href="http://wh.fang.lianjia.com/">武汉楼盘</a><a target="_blank" href="http://sz.fang.lianjia.com/">深圳楼盘</a><a target="_blank" href="http://cq.fang.lianjia.com/">重庆楼盘</a><a target="_blank" href="http://cs.fang.lianjia.com/">长沙楼盘</a><a target="_blank" href="http://xa.fang.lianjia.com/">西安楼盘</a><a target="_blank" href="http://jn.fang.lianjia.com/">济南楼盘</a><a target="_blank" href="http://sjz.fang.lianjia.com/">石家庄楼盘</a><a target="_blank" href="http://bj.lianjia.com/ershoufang/rs%E7%B2%BE%E8%A3%85%E6%88%BF/">北京精装房</a><a target="_blank" href="http://tj.lianjia.com/ershoufang/rs%E7%B2%BE%E8%A3%85%E6%88%BF/">天津精装房</a><a target="_blank" href="http://nj.lianjia.com/ershoufang/rs%E7%B2%BE%E8%A3%85%E6%88%BF/">南京精装房</a><a target="_blank" href="http://cd.lianjia.com/ershoufang/rs%E7%B2%BE%E8%A3%85%E6%88%BF/">成都精装房</a><a target="_blank" href="http://qd.lianjia.com/ershoufang/rs%E7%B2%BE%E8%A3%85%E6%88%BF/">青岛精装房</a><a target="_blank" href="http://dl.lianjia.com/ershoufang/rs%E7%B2%BE%E8%A3%85%E6%88%BF/">大连精装房</a><a target="_blank" href="http://hz.lianjia.com/ershoufang/rs%E7%B2%BE%E8%A3%85%E6%88%BF/">杭州精装房</a><a target="_blank" href="http://xm.lianjia.com/ershoufang/rs%E7%B2%BE%E8%A3%85%E6%88%BF/">厦门精装房</a><a target="_blank" href="http://wh.lianjia.com/ershoufang/rs%E7%B2%BE%E8%A3%85%E6%88%BF/">武汉精装房</a><a target="_blank" href="http://sz.lianjia.com/ershoufang/rs%E7%B2%BE%E8%A3%85%E6%88%BF/">深圳精装房</a><a target="_blank" href="http://cq.lianjia.com/ershoufang/rs%E7%B2%BE%E8%A3%85%E6%88%BF/">重庆精装房</a><a target="_blank" href="http://cs.lianjia.com/ershoufang/rs%E7%B2%BE%E8%A3%85%E6%88%BF/">长沙精装房</a><a target="_blank" href="http://jn.lianjia.com/ershoufang/rs%E7%B2%BE%E8%A3%85%E6%88%BF/">济南精装房</a><a target="_blank" href="http://gz.lianjia.com/ershoufang/rs%E7%B2%BE%E8%A3%85%E6%88%BF/">广州精装房</a></dd></div></div></div><div class="clear"></div></div><div class="bottom"><div class="copyright fl">北京链家房地产经纪有限公司 | 网络经营许可证 京ICP备11024601号-12 | © Copyright©2010-2017 链家网Lianjia.com版权所有</div></div></div></div>
+
+<script src="http://s1.ljcdn.com/feroot/pc/asset/base/fe.js?_v=20170209175958"></script><script src="http://s1.ljcdn.com/feroot/pc/asset/common/common.js?_v=20170209175958"></script><div style="display:none"><script src="http://s1.ljcdn.com/feroot/dep/ljanalytics.js?_v=20170209175958"></script></div><div id="only" data-city="bj" data-page="ershoufang_search"></div>
+<script>var path = 'http://s1.ljcdn.com/feroot/pc/asset?_v=20170209175958'.split("?");require.config({baseUrl: path[0],paths: {'echarts' : '../../dep/echarts-1.4.1/build/echarts','echarts/chart/bar' : '../../dep/echarts-1.4.1/build/echarts','echarts/chart/line' : '../../dep/echarts-1.4.1/build/echarts','echarts/chart/pie' : '../../dep/echarts-1.4.1/build/echarts','echarts3' : '../../dep/echarts3/echarts3','common': 'common','jquery-ui': '../../dep/jquery-ui/jquery-ui.min','zeroclipboard': '../../dep/zeroclipboard-2.2.0/ZeroClipboard'},urlArgs:  path[1]});var feData = {"cityName": "北京","getFavHouseUrl":       "/api/gethousefav","setFavHouseUrl":       "/api/sethousefav","getLastSearch":        "/api/getlastsearch","getCommunityHistory":  "/api/getcommunityhistory","verifyHouse":          "/api/verifyHouse","getUser":              "/api/getUser","verifyCode":           "/api/getVerifyCode","complaint":            "/api/complaint","getDecoration":        "/api/getDecoration","trendData" :           "/site/getpicinfo"}</script>
+<script type="text/template" id="priceSideBarTpl">
+<%if(tag !== 'school'){%>
+  <div class="title"><%=name%>最新参考均价</div>
+  <div class="priceMap" id="priceChartContainer"></div>
+  <a href="<%=fangjia_url%>" class="unitPrice" target="_blank">
+    <span><%=month_trans%></span>元/平米
+  </a>
+  <div class="info">
+    <a href="<%=fangjia_url%>" target="_blank">环比上月均价<%=month_trans_ratio>=0?'上涨':'下降'%> <%=month_trans_ratio%>%</a>
+    <a href="<%=chengjiao_url%>" target="_blank">/ 近90天成交<%=sold_90_day%>套</a>
+    <%if(tag === '小区'){%>
+    <div>
+      <a class="cardMoreDetail" href="<%=url%>" target="_blank">查看小区详情>></a>
+    </div>
+    <%}%>
+  </div>
+<%}else{%>
+  <a class="title" href="<%=url%>" target="_blank"><%=name%></a>
+  <div class="unitPrice school">
+    <span><%=min_unit_price%></span>万元起
+  </div>
+  <div class="info">
+    <a href="<%=url%>" target="_blank">本学区目前有在售二手房<%=sell_num%>套，划片小区<%=resblock_nums%>个</a>
+    <a class="cardMoreDetail" href="<%=url%>"  target="_blank">查看学区详情>></a>
+  </div>
+<%}%>
+</script>
+
+<script type="text/template" id="suggestAgentTpl">
+  <div class="title">推荐置业顾问</div>
+  <div class="agent">
+    <a class="img <%= (desc.search('学区') > -1) ? '': 'LOGVIEW LOGCLICK'%>" href="<%=url%>" target="_blank" data-bl="agent_<%= (desc.search('学区') > -1) ? 'school': 'community'%>" data-el="<%=ucid%>" data-log_id="20001">
+      <img src="<%=photo_url%>" alt="">
+    </a>
+    <div class="info">
+      <div class="name">
+        <a href="<%=url%>" target="_blank" data-bl="agent_<%= (desc.search('学区') > -1) ? 'school': 'community'%>" data-el="<%=ucid%>" class="<%= (desc.search('学区') > -1) ? '': 'LOGCLICK'%>" data-log_id="20001"><%=name%></a>
+        <a class="lianjiaim-createtalk <%= (desc.search('学区') > -1) ? '': 'LOGCLICK'%>" style="padding: 1px 0 !important;" title="在线咨询" data-role="lianjiaim-createtalk" data-ucid="<%=ucid%>" data-bl="agentim_<%= (desc.search('学区') > -1) ? 'school': 'community'%>" data-el="<%=ucid%>" data-log_id="20001"></a>
+      </div>
+      <div class="phone"><%=phone%></div>
+    </div>
+  </div>
+  <div class="agentInfo" title="<%=desc%>"><%=formatDesc%></div>
+</script>
+<script type="text/template" id="suggestHouseTpl">
+  <a class="img" href="<%=url%>" target="_blank" data-bl="list" data-log_index="<%=index+1%>">
+    <img src="<%=img_url%>" alt="">
+    <div class="cover"></div>
+    <div class="title">
+      <span><%=title%></span>&nbsp;
+    </div>
+  </a>
+  <div class="pointContainer">
+  <%for(var i = 0; i < total; i++){%>
+    <%if(index === i){%>
+      <span data-index="<%=i%>" class="point selected"></span>
+    <%}else{%>
+      <span data-index="<%=i%>" class="point"></span>
+    <%}%>
+  <%}%>
+  </div>
+</script>
+<script type="text/template" id="suggestCommunityTpl">
+  <div class="title">小区推荐</div>
+  <ul>
+  <%for(var i = 0; i < list.length; i++){%>
+    <li>
+      <a href="<%=list[i].url%>" class="img LOGVIEW LOGCLICK" data-log_id="30001" target="_blank" data-log_index="<%=i+1%>" data-bl="<%=$.trim($('.list-more dl:first dt').text()) === '小区' ? 'community' : 'bizcircle'%>" data-el="">
+        <%if(list[i].pic) {%>
+          <img src="<%=list[i].picUri%>.280x210.jpg">
+        <%}else{%>
+          <span class="noimg">暂无图片</span>
+        <%}%>
+        <div class="price"><%if(list[i].price!=0) {%><%=parseFloat(list[i].price, 10).toFixed()%>元/平<%}else{%>暂无均价<%}%></div>
+      </a>
+      <div class="info clear">
+        <a href="<%=list[i].url%>" target="_blank" class="fl"><%=list[i].name%></a>
+        <div class="fr"><%=list[i].sellNum%>套在售</div>
+      </div>
+      <div class="desc"><%=list[i].desc%></div>
+    </li>
+  <%}%>
+  </ul>
+</script>
+<script type="text/template" id="pushZhuanjiaTpl">
+  <span class="name">推荐学区顾问</span>
+  <span class="fl pic">
+    <img src='<%=list.photoPath%>'>
+  </span>
+  <span class="fl">
+    <a href="<%=list.agentUrl%>" target="_blank"><%=list.name%></a>
+    <a class="lianjiaim-createtalk" style="display: none;" title="在线咨询" data-role="lianjiaim-createtalk" data-ucid="<%=list.agent_ucid%>"></a>
+    <p class="tel"><%=list.phoneNumber%></p>
+  </span>
+  <p class="tips">
+    <%=list.desc%>
+  </p>
+</script>
+
+<script type="text/template" id="pushXuexiaoTpl">
+  <div class="title"><%=data.regionName%>近期热门学校</div>
+  <ul>
+  <% var list = data.list;for(var i = 0;i < list.length; i++){%>
+    <li class="li<%=i%>">
+      <i></i>
+      <a class="info" href="<%=list[i].viewUrl%>" target="_blank"><%=list[i].schoolName%></a>
+      <span><%=list[i].viewCount%>浏览</span>
+    </li>
+  <%}%>
+  </ul>
+</script>
+<script type="text/template" id="pushChenjiaoTpl">
+  <div class="title"><%=data.regionName%>近期成交</div>
+  <ul>
+  <% var list = data.list; for(var i = 0;i < list.length; i++){%>
+    <li class="li<%=i%>">
+      <i></i>
+      <a class="info" href="<%=list[i].viewUrl%>" target="_blank"><%=list[i].schoolName%></a>
+      <span><%=list[i].dealCount%>套</span>
+    </li>
+  <%}%>
+  </ul>
+</script>
+<script type="text/template" id="pushXuequTpl">
+  <div class="title">热点精选</div>
+  <ul>
+  <%for(var i = 0;i < list.length; i++){%>
+    <li>
+      <a class="info" href="<%=list[i].pc_url%>" target="_blank"><%=list[i].title%></a>
+    </li>
+  <%}%>
+  </ul>
+</script>
+<script type="text/template" id="pushZixunTpl">
+  <div class="title">热点精选</div>
+  <ul>
+  <%for(var i = 0;i < list.length; i++){%>
+    <li>
+      <a class="info" href="<%=list[i].url%>" target="_blank" data-bl="list" data-log_index="<%=i+1%>">
+        <i class="opt<%=i%>"><%=i+1%></i><span><%=list[i].question_title%></span>
+      </a>
+    </li>
+  <%}%>
+  </ul>
+</script>
+<script type="text/template" id="pushWendaTpl">
+  <div class="title">热门问答</div>
+  <ul>
+  <%for(var i = 0;i < list.length; i++){%>
+    <li>
+      <a class="info" href="<%=list[i].url%>" target="_blank" data-bl="list" data-log_index="<%=i+1%>"><%=list[i].question_title%></a>
+      <span class="time"><%=list[i].mtime%></span>
+    </li>
+  <%}%>
+  </ul>
+</script>
+<script type="text/template" id="newAddHouseTpl">
+  <div class="newAddHouse">
+    自从您上次浏览（<%=time%>）之后，该搜索条件下新增加了<%=count%>套房源
+    <a href="<%=url%>" class="LOGNEWERSHOUFANGSHOW" <%=logText%>><%=linkText%></a>
+    <span class="newHouseRightClose">x</span>
+  </div>
+</script>
+<script type="text/template" id="pushXinfangTpl">
+  <div class="newHousePushContainer">
+    <h3>推荐楼盘</h3>
+    <ul log-mod="ershoufang_list_newHouseRecommand">
+      <%for(var i = 0; i < list.length; i++){%>
+        <li>
+          <a class="pic LOGVIEW LOGCLICK" href="<%=list[i].view_url%>" target="_blank" data-bl="list" data-log_id="40001" data-el="<%=strategy_version%>" data-log_index="<%=i+1%>">
+            <span class="bg"></span>
+            <%if(list[i].cover_pic){%>
+              <img src="<%=list[i].cover_pic%>.218x150.jpg">
+            <%}else{%>
+              <div class="mark"></div>
+            <%}%>
+            <div class="description" ><%=list[i].district_name%>－<%=list[i].resblock_name%></div>
+          </a>
+          <%if(list[i].rooms){%>
+            <p class="area">
+              <%=list[i].rooms%>
+              <%if(list[i].min_frame_area != '' && list[i].max_frame_area != ''){%>
+                &nbsp;-&nbsp;
+                <%=list[i].min_frame_area%>~<%=list[i].max_frame_area%>平
+              <%}%>
+            </p>
+          <%}%>
+          <div class="price">
+            <%if(list[i].show_price && list[i].show_price != 0){%>
+              <i><%=list[i].show_price%></i>
+              <%=list[i].show_price_unit%>
+            <%}else{%>
+              价格待定
+            <%}%>
+          </div>
+        </li>
+      <%}%>
+    </ul>
+  </div>
+</script>
+
+<script type="text/javascript">
+require(['ershoufang/sellList/index'], function (main) {
+  main({
+    sidebar:{"type":"district","cityId":110000,"uuid":"22304964-5b15-4562-853e-988445b70ae0","ucid":null,"id":"23008614"},
+    url:'/web/ershoufang/sidebar',
+    xuequUrl : '/web/ershoufang/sidebarxuequ',
+    ifXuqu: "\/ershoufang\/",
+    ids: '101101087281,101101071443,101101116202,101100238931,101092367784,101100902914,101101043670,101101076350,101101140022,101101122341,101100983066,101100882193,101100757100,101101064523,101100764208,101100873120,101100900395,101100983114,101100592460,101100597925,101101070135,101101081361,101101111400,101101118655,101100840103,101101083814,101100952045,101101034394,101101023883,101101015122',
+    SIRKeyword:"",
+    count: 1190,
+    pageNum:1,
+    cid: null,
+    bid: null,
+    ucid: '',
+    uuid: '22304964-5b15-4562-853e-988445b70ae0',
+    loadingImg: 'http://s1.ljcdn.com/feroot/pc/asset/ershoufang/sellDetail/img/loading.gif?_v=20170209175958',
+    qrImg: 'http://s1.ljcdn.com/feroot/pc/asset/img/home/sidebar_qr.png?_v=20170209175958'
+  });
+
+});
+
+
+;;+function() {
+    LjUserTrack.send({
+        "ljweb_id": "10001",
+        "ljweb_mod": "ershoufang_list_view",
+        "ljweb_bl": "spk_0",
+        "ljweb_el": "1190"
+    });
+    var isHaveAgentCard = false
+    var clickLinkBl = 'list';
+    var resblockId = '';
+    if(isHaveAgentCard){
+      clickLinkBl = 'list_have_sem_card';
+      resblockId = ""
+    }
+    $(document.body).on("click", "[data-el='ershoufang']", function() {
+        var $m = $(this);
+        LjUserTrack.send({
+            "ljweb_id": "10002",
+            "ljweb_mod": "ershoufang_list_list",
+            "ljweb_bl": clickLinkBl,
+            "ljweb_el": "ershoufang",
+            "ljweb_index": $m.attr("data-log_index"),
+            "ljweb_url": $m.attr("href"),
+            "ljweb_value":resblockId
+        });
+
+    });
+
+    $(document.body).on("mousedown", ".input [data-bl='sug'] [data-log_value]", function() {
+        var $m = $(this);
+        var actionId = $m.closest('[data-bl="sug"]').attr("data-el") === 'history' ? '10004' : '10003';
+        LjUserTrack.send({
+            "ljweb_id": actionId,
+            "ljweb_mod": "ershoufang_list_search",
+            "ljweb_bl": "search",
+            "ljweb_el": $m.attr("data-log_value"),
+            "ljweb_index": $m.attr("data-log_index"),
+            "ljweb_value": $.trim($("#searchInput").val()),
+            "ljweb_url": $m.attr("href")
+        });
+    });
+    $("#searchForm").on("submit", function() {
+        var $m = $(this);
+        LjUserTrack.send({
+            "ljweb_id": "10008",
+            "ljweb_mod": "ershoufang_list_search",
+            "ljweb_bl": "search",
+            "ljweb_value": $.trim($("#searchInput").val())
+        });
+    });
+
+}();
+</script>
+<script>require(['common/suggestion'], function (suggestion) {window.defaultSuggest = suggestion.init({requestOptions: {cityId: '110000',cityName: '北京'},url: '/api/headerSearch?channel=ershoufang&q=',main: '#keyword-box',appendTo: '#suggest-cont',redirect: true});});</script><div class="loninContaner"><div class="overlay_bg"></div><div class="panel_login animated" id="dialog"><div class="panel_info"><div class="panel_tab"><div class="title"><div class="fl">用户登录</div><label class="fr">还没有链家网账号？<a href="http://passport.lianjia.com/register/resources/lianjia/register.html?service=http%3A%2F%2Fbj.lianjia.com%2F">马上注册</a></label></div><div class="clear"></div><div id="con_login_user"><form action="" method="post"><ul><li class="show-error"><dd>用户名或密码错误</dd></li><li class="item userName"><i></i><input type="text" class="the_input users" placeholder="请输入手机号" /></li><li class="item pwd"><i></i><input type="password" class="the_input password"  placeholder="请输入登录密码"/></li><li class="item checkVerimg" style="display:none;"><i></i><input type="text" class="the_input ver-img" maxlength="4"  placeholder="请输入验证码"/><img class="verImg"></li><li class="li_01"><label><input type="checkbox" name="remember" value="1" class="mind-login" checked>下次自动登录</label><a href="https://passport.lianjia.com/register/resources/lianjia/forget.html?service=http://bj.lianjia.com/">找回密码</a></li><li><a class="login-user-btn"  />立即登录</a></li></ul></form></div><div id="con_login_agent" class="undis"><form action="" method="post"><ul><li class="item"><dd></dd><input type="text" class="the_input users" placeholder="输入经纪人ID号码" /></li><li class="item"><input type="password" class="the_input password"  placeholder="登录密码"/></li><li class="li_01"><label><input type="checkbox" name="remember" value="1" class="mind-login">下次自动登录</label><a href="https://passport.lianjia.com/register/resources/lianjia/forget.html?service=http://bj.lianjia.com/">找回密码</a></li><li><input class="login-agent-btn" value="立即登录"/></li></ul></form></div></div></div><div class="registered"></div></div></div><!-- LianjiaIM Style --><link property='stylesheet' rel="stylesheet" href="http://s1.ljcdn.com/feroot/pc/asset/lianjiaIM/css/lianjiaim.css?_v=20170209175958"/><script src="http://s1.ljcdn.com/web-im-sdk/static/0.9/ljim-core.min.js?_v=20170212"></script><script>(function() {var imConf = {"ajaxroot":"http:\/\/ajax.api.lianjia.com\/","imAppid":"LIANJIA_WEB_20160624","imAppkey":"6dfdcee27d78b1107fceeca55d80b7bd"};$.listener.on('userInfo', function (data) {if (data.code === 1) {data.ucid = '';}require(['lianjiaIM/lianjiaim'], function (LianjiaIM) {var ljim = new LianjiaIM({appid: imConf.imAppid,appkey: imConf.imAppkey,userData: data,staticRoot: 'http://s1.ljcdn.com/feroot/?_v=20170209175958'});});});})();</script><script type="text/javascript">var advert = 'http://s1.ljcdn.com/feroot/pc/asset/common/advert.js?_v=20170209175958';
+    $.listener.on('userInfo', function (data) {
+      window.loginData = data;
+    });
+    var mvl = document.createElement('script');
+    mvl.type = 'text/javascript';
+    mvl.async = true;
+    mvl.src = advert;
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(mvl, s);
+  </script><script type="text/javascript">(function(){var bp = document.createElement('script');var curProtocol = window.location.protocol.split(':')[0];if (curProtocol === 'https'){bp.src = 'https://zz.bdstatic.com/linksubmit/push.js';} else {bp.src = 'http://push.zhanzhang.baidu.com/push.js';}var s = document.getElementsByTagName("script")[0];s.parentNode.insertBefore(bp, s);})();</script></body></html>
